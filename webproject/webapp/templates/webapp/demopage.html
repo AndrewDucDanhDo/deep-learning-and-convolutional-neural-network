@@ -13,7 +13,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">Vehicle Filtering</a>
+            <a class="navbar-brand" href="{% url 'homepage' %}">Vehicle Filtering</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -30,11 +30,18 @@
         </div>
     </nav>
 
-    <div class="p-5 text-center">
+    <div class="p-5 btn-primary text-center">
         <h2>Let's try the Demo!</h2>
+        <h5 class="pt-3">Instructions</h5>
+        <p>Upload a video or image to get started. (Max 5gb)</p>
+        <h5 class="pt-3">Instructions</h5>
         <p>Upload a video or image to get started. (Max 5gb)</p>
         <input type="file" class="form-control" id="customFile" />
     </div>
-  
+
+    <div class="p-4 text-center">
+        <a class="btn btn-success" href="{% url 'resultspage' %}">Start</a>
+    </div>
+
 </body>
 <html>

@@ -1,0 +1,109 @@
+{
+    "img_name": "2010_000571",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2010_000571.mat",
+    "num_obj": 2,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            5,
+            13,
+            375,
+            499
+        ],
+        "0": {
+            "parts": "rightside",
+            "part_bbox": [
+                5,
+                13,
+                375,
+                499
+            ]
+        },
+        "1": {
+            "parts": "door_1",
+            "part_bbox": [
+                6,
+                318,
+                375,
+                498
+            ]
+        },
+        "2": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                246,
+                80,
+                374,
+                218
+            ]
+        },
+        "3": {
+            "parts": "window_1",
+            "part_bbox": [
+                25,
+                372,
+                191,
+                498
+            ]
+        }
+    },
+    "1": {
+        "objects": "bicycle",
+        "obj_bbox": [
+            29,
+            152,
+            163,
+            358
+        ],
+        "0": {
+            "parts": "fwheel",
+            "part_bbox": [
+                107,
+                286,
+                163,
+                331
+            ]
+        },
+        "1": {
+            "parts": "bwheel",
+            "part_bbox": [
+                97,
+                152,
+                150,
+                230
+            ]
+        },
+        "2": {
+            "parts": "chainwheel",
+            "part_bbox": [
+                144,
+                223,
+                152,
+                244
+            ]
+        },
+        "3": {
+            "parts": "handlebar",
+            "part_bbox": [
+                29,
+                281,
+                69,
+                358
+            ]
+        },
+        "4": {
+            "parts": "saddle",
+            "part_bbox": [
+                44,
+                201,
+                58,
+                240
+            ]
+        }
+    }
+}

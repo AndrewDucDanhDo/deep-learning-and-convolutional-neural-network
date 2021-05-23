@@ -1,0 +1,100 @@
+{
+    "img_name": "2008_000187",
+    "img_size": [
+        333,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_000187.mat",
+    "num_obj": 1,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            120,
+            162,
+            205,
+            445
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                120,
+                162,
+                178,
+                304
+            ]
+        },
+        "1": {
+            "parts": "leftside",
+            "part_bbox": [
+                126,
+                188,
+                189,
+                445
+            ]
+        },
+        "2": {
+            "parts": "door_1",
+            "part_bbox": [
+                128,
+                275,
+                190,
+                353
+            ]
+        },
+        "3": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                140,
+                291,
+                148,
+                297
+            ]
+        },
+        "4": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                163,
+                206,
+                201,
+                246
+            ]
+        },
+        "5": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                168,
+                369,
+                205,
+                404
+            ]
+        },
+        "6": {
+            "parts": "window_1",
+            "part_bbox": [
+                123,
+                251,
+                146,
+                298
+            ]
+        },
+        "7": {
+            "parts": "window_2",
+            "part_bbox": [
+                130,
+                288,
+                149,
+                350
+            ]
+        },
+        "8": {
+            "parts": "window_3",
+            "part_bbox": [
+                135,
+                357,
+                150,
+                385
+            ]
+        }
+    }
+}

@@ -1,0 +1,100 @@
+{
+    "img_name": "2008_000163",
+    "img_size": [
+        333,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_000163.mat",
+    "num_obj": 1,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            38,
+            0,
+            333,
+            500
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                58,
+                2,
+                208,
+                202
+            ]
+        },
+        "1": {
+            "parts": "leftside",
+            "part_bbox": [
+                45,
+                2,
+                308,
+                498
+            ]
+        },
+        "2": {
+            "parts": "door_1",
+            "part_bbox": [
+                62,
+                148,
+                272,
+                316
+            ]
+        },
+        "3": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                123,
+                187,
+                154,
+                229
+            ]
+        },
+        "4": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                240,
+                2,
+                329,
+                88
+            ]
+        },
+        "5": {
+            "parts": "window_1",
+            "part_bbox": [
+                67,
+                57,
+                148,
+                195
+            ]
+        },
+        "6": {
+            "parts": "window_2",
+            "part_bbox": [
+                65,
+                171,
+                149,
+                291
+            ]
+        },
+        "7": {
+            "parts": "window_3",
+            "part_bbox": [
+                52,
+                323,
+                123,
+                408
+            ]
+        },
+        "8": {
+            "parts": "window_4",
+            "part_bbox": [
+                50,
+                405,
+                110,
+                497
+            ]
+        }
+    }
+}

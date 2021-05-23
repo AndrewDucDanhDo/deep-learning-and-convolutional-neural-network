@@ -1,0 +1,100 @@
+{
+    "img_name": "2008_005216",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_005216.mat",
+    "num_obj": 1,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            1,
+            2,
+            359,
+            499
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                2,
+                230,
+                171,
+                499
+            ]
+        },
+        "1": {
+            "parts": "rightside",
+            "part_bbox": [
+                15,
+                2,
+                305,
+                499
+            ]
+        },
+        "2": {
+            "parts": "roofside",
+            "part_bbox": [
+                2,
+                2,
+                31,
+                251
+            ]
+        },
+        "3": {
+            "parts": "door_1",
+            "part_bbox": [
+                19,
+                91,
+                301,
+                398
+            ]
+        },
+        "4": {
+            "parts": "door_2",
+            "part_bbox": [
+                19,
+                2,
+                296,
+                121
+            ]
+        },
+        "5": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                234,
+                427,
+                359,
+                499
+            ]
+        },
+        "6": {
+            "parts": "window_1",
+            "part_bbox": [
+                35,
+                103,
+                153,
+                373
+            ]
+        },
+        "7": {
+            "parts": "window_2",
+            "part_bbox": [
+                33,
+                2,
+                146,
+                92
+            ]
+        },
+        "8": {
+            "parts": "window_3",
+            "part_bbox": [
+                2,
+                243,
+                143,
+                399
+            ]
+        }
+    }
+}

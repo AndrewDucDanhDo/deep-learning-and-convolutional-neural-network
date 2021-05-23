@@ -1,0 +1,154 @@
+{
+    "img_name": "2008_004605",
+    "img_size": [
+        327,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_004605.mat",
+    "num_obj": 2,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            164,
+            14,
+            173,
+            26
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                164,
+                17,
+                172,
+                25
+            ]
+        },
+        "1": {
+            "parts": "rightside",
+            "part_bbox": [
+                164,
+                14,
+                172,
+                18
+            ]
+        },
+        "2": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                167,
+                25,
+                168,
+                26
+            ]
+        },
+        "3": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                166,
+                14,
+                167,
+                16
+            ]
+        },
+        "4": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                171,
+                24,
+                173,
+                25
+            ]
+        },
+        "5": {
+            "parts": "wheel_3",
+            "part_bbox": [
+                172,
+                16,
+                173,
+                18
+            ]
+        },
+        "6": {
+            "parts": "window_1",
+            "part_bbox": [
+                165,
+                17,
+                167,
+                24
+            ]
+        }
+    },
+    "1": {
+        "objects": "aeroplane",
+        "obj_bbox": [
+            56,
+            35,
+            218,
+            458
+        ],
+        "0": {
+            "parts": "body",
+            "part_bbox": [
+                132,
+                198,
+                200,
+                458
+            ]
+        },
+        "1": {
+            "parts": "rwing",
+            "part_bbox": [
+                140,
+                126,
+                155,
+                271
+            ]
+        },
+        "2": {
+            "parts": "engine_1",
+            "part_bbox": [
+                170,
+                123,
+                195,
+                290
+            ]
+        },
+        "3": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                203,
+                344,
+                218,
+                358
+            ]
+        },
+        "4": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                192,
+                199,
+                212,
+                217
+            ]
+        },
+        "5": {
+            "parts": "wheel_3",
+            "part_bbox": [
+                194,
+                213,
+                209,
+                227
+            ]
+        },
+        "6": {
+            "parts": "stern",
+            "part_bbox": [
+                56,
+                35,
+                188,
+                213
+            ]
+        }
+    }
+}

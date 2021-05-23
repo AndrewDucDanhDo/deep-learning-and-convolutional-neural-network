@@ -1,0 +1,217 @@
+{
+    "img_name": "2009_003822",
+    "img_size": [
+        408,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2009_003822.mat",
+    "num_obj": 2,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            93,
+            465,
+            145,
+            500
+        ],
+        "0": {
+            "parts": "bliplate",
+            "part_bbox": [
+                116,
+                487,
+                120,
+                497
+            ]
+        },
+        "1": {
+            "parts": "backside",
+            "part_bbox": [
+                93,
+                465,
+                139,
+                500
+            ]
+        },
+        "2": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                138,
+                470,
+                145,
+                481
+            ]
+        },
+        "3": {
+            "parts": "window_1",
+            "part_bbox": [
+                96,
+                475,
+                109,
+                500
+            ]
+        }
+    },
+    "1": {
+        "objects": "horse",
+        "obj_bbox": [
+            8,
+            7,
+            398,
+            455
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                10,
+                7,
+                124,
+                101
+            ]
+        },
+        "1": {
+            "parts": "lear",
+            "part_bbox": [
+                8,
+                31,
+                32,
+                64
+            ]
+        },
+        "2": {
+            "parts": "leye",
+            "part_bbox": [
+                51,
+                25,
+                61,
+                37
+            ]
+        },
+        "3": {
+            "parts": "muzzle",
+            "part_bbox": [
+                61,
+                8,
+                123,
+                52
+            ]
+        },
+        "4": {
+            "parts": "torso",
+            "part_bbox": [
+                20,
+                72,
+                221,
+                451
+            ]
+        },
+        "5": {
+            "parts": "neck",
+            "part_bbox": [
+                21,
+                75,
+                149,
+                185
+            ]
+        },
+        "6": {
+            "parts": "lflleg",
+            "part_bbox": [
+                289,
+                183,
+                382,
+                218
+            ]
+        },
+        "7": {
+            "parts": "lfuleg",
+            "part_bbox": [
+                206,
+                161,
+                292,
+                210
+            ]
+        },
+        "8": {
+            "parts": "lfho",
+            "part_bbox": [
+                359,
+                185,
+                380,
+                212
+            ]
+        },
+        "9": {
+            "parts": "rflleg",
+            "part_bbox": [
+                283,
+                168,
+                364,
+                201
+            ]
+        },
+        "10": {
+            "parts": "rfho",
+            "part_bbox": [
+                344,
+                169,
+                363,
+                192
+            ]
+        },
+        "11": {
+            "parts": "lblleg",
+            "part_bbox": [
+                277,
+                422,
+                397,
+                453
+            ]
+        },
+        "12": {
+            "parts": "lbuleg",
+            "part_bbox": [
+                179,
+                388,
+                289,
+                446
+            ]
+        },
+        "13": {
+            "parts": "lbho",
+            "part_bbox": [
+                374,
+                424,
+                398,
+                450
+            ]
+        },
+        "14": {
+            "parts": "rblleg",
+            "part_bbox": [
+                283,
+                379,
+                373,
+                426
+            ]
+        },
+        "15": {
+            "parts": "rbho",
+            "part_bbox": [
+                353,
+                380,
+                371,
+                407
+            ]
+        },
+        "16": {
+            "parts": "tail",
+            "part_bbox": [
+                148,
+                430,
+                251,
+                455
+            ]
+        }
+    }
+}

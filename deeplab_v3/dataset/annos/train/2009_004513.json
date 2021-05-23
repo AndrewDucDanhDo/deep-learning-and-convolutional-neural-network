@@ -1,0 +1,136 @@
+{
+    "img_name": "2009_004513",
+    "img_size": [
+        500,
+        335,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2009_004513.mat",
+    "num_obj": 2,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            136,
+            201,
+            197,
+            281
+        ],
+        "0": {
+            "parts": "bliplate",
+            "part_bbox": [
+                162,
+                232,
+                169,
+                256
+            ]
+        },
+        "1": {
+            "parts": "backside",
+            "part_bbox": [
+                136,
+                201,
+                190,
+                278
+            ]
+        },
+        "2": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                187,
+                258,
+                197,
+                273
+            ]
+        },
+        "3": {
+            "parts": "window_1",
+            "part_bbox": [
+                140,
+                213,
+                157,
+                269
+            ]
+        }
+    },
+    "1": {
+        "objects": "sheep",
+        "obj_bbox": [
+            161,
+            86,
+            403,
+            261
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                161,
+                164,
+                228,
+                261
+            ]
+        },
+        "1": {
+            "parts": "lear",
+            "part_bbox": [
+                176,
+                229,
+                205,
+                261
+            ]
+        },
+        "2": {
+            "parts": "rear",
+            "part_bbox": [
+                175,
+                164,
+                203,
+                195
+            ]
+        },
+        "3": {
+            "parts": "leye",
+            "part_bbox": [
+                185,
+                230,
+                190,
+                237
+            ]
+        },
+        "4": {
+            "parts": "reye",
+            "part_bbox": [
+                186,
+                195,
+                190,
+                202
+            ]
+        },
+        "5": {
+            "parts": "muzzle",
+            "part_bbox": [
+                190,
+                204,
+                229,
+                227
+            ]
+        },
+        "6": {
+            "parts": "torso",
+            "part_bbox": [
+                200,
+                86,
+                310,
+                235
+            ]
+        },
+        "7": {
+            "parts": "neck",
+            "part_bbox": [
+                202,
+                184,
+                270,
+                235
+            ]
+        }
+    }
+}

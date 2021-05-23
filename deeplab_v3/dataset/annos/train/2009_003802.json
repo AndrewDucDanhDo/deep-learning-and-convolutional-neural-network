@@ -1,0 +1,82 @@
+{
+    "img_name": "2009_003802",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2009_003802.mat",
+    "num_obj": 3,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            58,
+            400,
+            375,
+            499
+        ],
+        "0": {
+            "parts": "backside",
+            "part_bbox": [
+                58,
+                400,
+                375,
+                499
+            ]
+        }
+    },
+    "1": {
+        "objects": "bicycle",
+        "obj_bbox": [
+            9,
+            99,
+            90,
+            196
+        ],
+        "0": {
+            "parts": "handlebar",
+            "part_bbox": [
+                9,
+                99,
+                58,
+                125
+            ]
+        },
+        "1": {
+            "parts": "saddle",
+            "part_bbox": [
+                44,
+                177,
+                57,
+                192
+            ]
+        }
+    },
+    "2": {
+        "objects": "motorbike",
+        "obj_bbox": [
+            5,
+            69,
+            354,
+            330
+        ],
+        "0": {
+            "parts": "fwheel",
+            "part_bbox": [
+                114,
+                285,
+                208,
+                330
+            ]
+        },
+        "1": {
+            "parts": "bwheel",
+            "part_bbox": [
+                187,
+                106,
+                354,
+                235
+            ]
+        }
+    }
+}

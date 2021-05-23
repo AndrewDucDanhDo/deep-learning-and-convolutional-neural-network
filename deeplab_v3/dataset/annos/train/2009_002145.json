@@ -1,0 +1,595 @@
+{
+    "img_name": "2009_002145",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2009_002145.mat",
+    "num_obj": 6,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            349,
+            154,
+            367,
+            199
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                358,
+                154,
+                367,
+                158
+            ]
+        },
+        "1": {
+            "parts": "leftside",
+            "part_bbox": [
+                350,
+                180,
+                365,
+                199
+            ]
+        },
+        "2": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                359,
+                192,
+                366,
+                198
+            ]
+        },
+        "3": {
+            "parts": "window_1",
+            "part_bbox": [
+                351,
+                183,
+                356,
+                195
+            ]
+        }
+    },
+    "1": {
+        "objects": "car",
+        "obj_bbox": [
+            342,
+            200,
+            362,
+            235
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                343,
+                200,
+                360,
+                219
+            ]
+        },
+        "1": {
+            "parts": "leftside",
+            "part_bbox": [
+                345,
+                207,
+                360,
+                235
+            ]
+        },
+        "2": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                354,
+                206,
+                356,
+                208
+            ]
+        },
+        "3": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                356,
+                210,
+                362,
+                215
+            ]
+        },
+        "4": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                353,
+                231,
+                357,
+                234
+            ]
+        }
+    },
+    "2": {
+        "objects": "bicycle",
+        "obj_bbox": [
+            232,
+            217,
+            373,
+            375
+        ],
+        "0": {
+            "parts": "fwheel",
+            "part_bbox": [
+                289,
+                334,
+                363,
+                375
+            ]
+        },
+        "1": {
+            "parts": "bwheel",
+            "part_bbox": [
+                300,
+                217,
+                373,
+                306
+            ]
+        },
+        "2": {
+            "parts": "chainwheel",
+            "part_bbox": [
+                338,
+                302,
+                371,
+                328
+            ]
+        },
+        "3": {
+            "parts": "handlebar",
+            "part_bbox": [
+                232,
+                267,
+                251,
+                307
+            ]
+        },
+        "4": {
+            "parts": "saddle",
+            "part_bbox": [
+                234,
+                359,
+                245,
+                371
+            ]
+        }
+    },
+    "3": {
+        "objects": "person",
+        "obj_bbox": [
+            96,
+            116,
+            374,
+            218
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                96,
+                168,
+                152,
+                214
+            ]
+        },
+        "1": {
+            "parts": "lear",
+            "part_bbox": [
+                133,
+                197,
+                141,
+                202
+            ]
+        },
+        "2": {
+            "parts": "rear",
+            "part_bbox": [
+                120,
+                170,
+                133,
+                177
+            ]
+        },
+        "3": {
+            "parts": "mouth",
+            "part_bbox": [
+                136,
+                180,
+                146,
+                194
+            ]
+        },
+        "4": {
+            "parts": "hair",
+            "part_bbox": [
+                96,
+                169,
+                142,
+                213
+            ]
+        },
+        "5": {
+            "parts": "nose",
+            "part_bbox": [
+                128,
+                185,
+                139,
+                194
+            ]
+        },
+        "6": {
+            "parts": "torso",
+            "part_bbox": [
+                142,
+                117,
+                246,
+                198
+            ]
+        },
+        "7": {
+            "parts": "neck",
+            "part_bbox": [
+                135,
+                167,
+                160,
+                189
+            ]
+        },
+        "8": {
+            "parts": "llarm",
+            "part_bbox": [
+                208,
+                204,
+                239,
+                218
+            ]
+        },
+        "9": {
+            "parts": "luarm",
+            "part_bbox": [
+                166,
+                189,
+                213,
+                214
+            ]
+        },
+        "10": {
+            "parts": "lhand",
+            "part_bbox": [
+                231,
+                185,
+                257,
+                213
+            ]
+        },
+        "11": {
+            "parts": "rlarm",
+            "part_bbox": [
+                206,
+                120,
+                277,
+                155
+            ]
+        },
+        "12": {
+            "parts": "ruarm",
+            "part_bbox": [
+                146,
+                120,
+                217,
+                154
+            ]
+        },
+        "13": {
+            "parts": "rhand",
+            "part_bbox": [
+                268,
+                135,
+                296,
+                159
+            ]
+        },
+        "14": {
+            "parts": "llleg",
+            "part_bbox": [
+                336,
+                157,
+                374,
+                181
+            ]
+        },
+        "15": {
+            "parts": "luleg",
+            "part_bbox": [
+                234,
+                156,
+                347,
+                189
+            ]
+        },
+        "16": {
+            "parts": "rlleg",
+            "part_bbox": [
+                341,
+                117,
+                374,
+                143
+            ]
+        },
+        "17": {
+            "parts": "ruleg",
+            "part_bbox": [
+                235,
+                116,
+                351,
+                164
+            ]
+        }
+    },
+    "4": {
+        "objects": "person",
+        "obj_bbox": [
+            80,
+            0,
+            374,
+            114
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                80,
+                60,
+                143,
+                109
+            ]
+        },
+        "1": {
+            "parts": "rear",
+            "part_bbox": [
+                106,
+                62,
+                122,
+                75
+            ]
+        },
+        "2": {
+            "parts": "mouth",
+            "part_bbox": [
+                126,
+                90,
+                133,
+                99
+            ]
+        },
+        "3": {
+            "parts": "hair",
+            "part_bbox": [
+                90,
+                61,
+                118,
+                82
+            ]
+        },
+        "4": {
+            "parts": "nose",
+            "part_bbox": [
+                115,
+                96,
+                127,
+                105
+            ]
+        },
+        "5": {
+            "parts": "torso",
+            "part_bbox": [
+                126,
+                12,
+                252,
+                114
+            ]
+        },
+        "6": {
+            "parts": "neck",
+            "part_bbox": [
+                120,
+                53,
+                149,
+                86
+            ]
+        },
+        "7": {
+            "parts": "lhand",
+            "part_bbox": [
+                232,
+                89,
+                259,
+                109
+            ]
+        },
+        "8": {
+            "parts": "rlarm",
+            "part_bbox": [
+                191,
+                0,
+                234,
+                25
+            ]
+        },
+        "9": {
+            "parts": "ruarm",
+            "part_bbox": [
+                143,
+                0,
+                192,
+                33
+            ]
+        },
+        "10": {
+            "parts": "llleg",
+            "part_bbox": [
+                365,
+                61,
+                374,
+                87
+            ]
+        },
+        "11": {
+            "parts": "luleg",
+            "part_bbox": [
+                238,
+                60,
+                374,
+                105
+            ]
+        },
+        "12": {
+            "parts": "rlleg",
+            "part_bbox": [
+                356,
+                29,
+                374,
+                59
+            ]
+        },
+        "13": {
+            "parts": "ruleg",
+            "part_bbox": [
+                218,
+                13,
+                365,
+                74
+            ]
+        }
+    },
+    "5": {
+        "objects": "person",
+        "obj_bbox": [
+            218,
+            353,
+            374,
+            493
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                218,
+                368,
+                266,
+                406
+            ]
+        },
+        "1": {
+            "parts": "lear",
+            "part_bbox": [
+                233,
+                399,
+                247,
+                407
+            ]
+        },
+        "2": {
+            "parts": "rear",
+            "part_bbox": [
+                242,
+                369,
+                255,
+                376
+            ]
+        },
+        "3": {
+            "parts": "mouth",
+            "part_bbox": [
+                251,
+                384,
+                258,
+                396
+            ]
+        },
+        "4": {
+            "parts": "nose",
+            "part_bbox": [
+                241,
+                381,
+                251,
+                392
+            ]
+        },
+        "5": {
+            "parts": "torso",
+            "part_bbox": [
+                242,
+                379,
+                345,
+                493
+            ]
+        },
+        "6": {
+            "parts": "llarm",
+            "part_bbox": [
+                314,
+                441,
+                374,
+                466
+            ]
+        },
+        "7": {
+            "parts": "luarm",
+            "part_bbox": [
+                251,
+                418,
+                325,
+                462
+            ]
+        },
+        "8": {
+            "parts": "rlarm",
+            "part_bbox": [
+                317,
+                357,
+                364,
+                388
+            ]
+        },
+        "9": {
+            "parts": "ruarm",
+            "part_bbox": [
+                263,
+                372,
+                328,
+                395
+            ]
+        },
+        "10": {
+            "parts": "rhand",
+            "part_bbox": [
+                353,
+                353,
+                374,
+                366
+            ]
+        },
+        "11": {
+            "parts": "luleg",
+            "part_bbox": [
+                327,
+                363,
+                374,
+                486
+            ]
+        },
+        "12": {
+            "parts": "ruleg",
+            "part_bbox": [
+                323,
+                354,
+                355,
+                414
+            ]
+        }
+    }
+}

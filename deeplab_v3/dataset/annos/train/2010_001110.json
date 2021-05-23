@@ -1,0 +1,217 @@
+{
+    "img_name": "2010_001110",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2010_001110.mat",
+    "num_obj": 2,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            0,
+            274,
+            167,
+            500
+        ],
+        "0": {
+            "parts": "leftside",
+            "part_bbox": [
+                0,
+                274,
+                162,
+                500
+            ]
+        },
+        "1": {
+            "parts": "door_1",
+            "part_bbox": [
+                0,
+                281,
+                88,
+                373
+            ]
+        },
+        "2": {
+            "parts": "door_2",
+            "part_bbox": [
+                0,
+                342,
+                112,
+                450
+            ]
+        },
+        "3": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                29,
+                277,
+                43,
+                290
+            ]
+        },
+        "4": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                104,
+                422,
+                167,
+                493
+            ]
+        },
+        "5": {
+            "parts": "window_1",
+            "part_bbox": [
+                0,
+                293,
+                41,
+                367
+            ]
+        },
+        "6": {
+            "parts": "window_2",
+            "part_bbox": [
+                1,
+                362,
+                48,
+                444
+            ]
+        },
+        "7": {
+            "parts": "window_3",
+            "part_bbox": [
+                3,
+                450,
+                49,
+                499
+            ]
+        }
+    },
+    "1": {
+        "objects": "car",
+        "obj_bbox": [
+            3,
+            29,
+            334,
+            484
+        ],
+        "0": {
+            "parts": "fliplate",
+            "part_bbox": [
+                285,
+                382,
+                318,
+                438
+            ]
+        },
+        "1": {
+            "parts": "frontside",
+            "part_bbox": [
+                21,
+                103,
+                334,
+                482
+            ]
+        },
+        "2": {
+            "parts": "rightside",
+            "part_bbox": [
+                25,
+                29,
+                325,
+                228
+            ]
+        },
+        "3": {
+            "parts": "roofside",
+            "part_bbox": [
+                3,
+                75,
+                41,
+                262
+            ]
+        },
+        "4": {
+            "parts": "door_1",
+            "part_bbox": [
+                31,
+                49,
+                223,
+                102
+            ]
+        },
+        "5": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                48,
+                282,
+                62,
+                292
+            ]
+        },
+        "6": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                67,
+                77,
+                85,
+                102
+            ]
+        },
+        "7": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                145,
+                453,
+                193,
+                484
+            ]
+        },
+        "8": {
+            "parts": "headlight_2",
+            "part_bbox": [
+                199,
+                208,
+                255,
+                259
+            ]
+        },
+        "9": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                204,
+                124,
+                325,
+                192
+            ]
+        },
+        "10": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                115,
+                35,
+                178,
+                55
+            ]
+        },
+        "11": {
+            "parts": "window_1",
+            "part_bbox": [
+                32,
+                56,
+                93,
+                100
+            ]
+        },
+        "12": {
+            "parts": "window_2",
+            "part_bbox": [
+                24,
+                105,
+                94,
+                291
+            ]
+        }
+    }
+}

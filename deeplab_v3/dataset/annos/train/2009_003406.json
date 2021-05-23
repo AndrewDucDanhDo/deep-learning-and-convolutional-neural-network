@@ -1,0 +1,100 @@
+{
+    "img_name": "2009_003406",
+    "img_size": [
+        285,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2009_003406.mat",
+    "num_obj": 1,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            94,
+            17,
+            250,
+            411
+        ],
+        "0": {
+            "parts": "backside",
+            "part_bbox": [
+                106,
+                17,
+                233,
+                63
+            ]
+        },
+        "1": {
+            "parts": "rightside",
+            "part_bbox": [
+                96,
+                36,
+                236,
+                411
+            ]
+        },
+        "2": {
+            "parts": "door_1",
+            "part_bbox": [
+                98,
+                161,
+                221,
+                305
+            ]
+        },
+        "3": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                134,
+                275,
+                152,
+                296
+            ]
+        },
+        "4": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                183,
+                319,
+                241,
+                377
+            ]
+        },
+        "5": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                190,
+                64,
+                247,
+                129
+            ]
+        },
+        "6": {
+            "parts": "window_1",
+            "part_bbox": [
+                102,
+                79,
+                154,
+                160
+            ]
+        },
+        "7": {
+            "parts": "window_2",
+            "part_bbox": [
+                104,
+                171,
+                153,
+                282
+            ]
+        },
+        "8": {
+            "parts": "window_3",
+            "part_bbox": [
+                116,
+                34,
+                146,
+                60
+            ]
+        }
+    }
+}

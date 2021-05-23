@@ -1,0 +1,181 @@
+{
+    "img_name": "2009_003560",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2009_003560.mat",
+    "num_obj": 7,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            151,
+            264,
+            176,
+            302
+        ],
+        "0": {
+            "parts": "backside",
+            "part_bbox": [
+                152,
+                267,
+                174,
+                299
+            ]
+        },
+        "1": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                157,
+                264,
+                160,
+                268
+            ]
+        },
+        "2": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                156,
+                297,
+                159,
+                300
+            ]
+        }
+    },
+    "1": {
+        "objects": "motorbike",
+        "obj_bbox": [
+            169,
+            277,
+            200,
+            288
+        ],
+        "0": {
+            "parts": "bwheel",
+            "part_bbox": [
+                186,
+                279,
+                200,
+                286
+            ]
+        }
+    },
+    "2": {
+        "objects": "person",
+        "obj_bbox": [
+            158,
+            272,
+            184,
+            289
+        ]
+    },
+    "3": {
+        "objects": "motorbike",
+        "obj_bbox": [
+            242,
+            201,
+            263,
+            224
+        ],
+        "0": {
+            "parts": "fwheel",
+            "part_bbox": [
+                249,
+                218,
+                257,
+                224
+            ]
+        },
+        "1": {
+            "parts": "bwheel",
+            "part_bbox": [
+                254,
+                204,
+                263,
+                217
+            ]
+        }
+    },
+    "4": {
+        "objects": "person",
+        "obj_bbox": [
+            238,
+            202,
+            255,
+            220
+        ]
+    },
+    "5": {
+        "objects": "motorbike",
+        "obj_bbox": [
+            271,
+            219,
+            292,
+            240
+        ],
+        "0": {
+            "parts": "fwheel",
+            "part_bbox": [
+                282,
+                236,
+                287,
+                240
+            ]
+        },
+        "1": {
+            "parts": "bwheel",
+            "part_bbox": [
+                278,
+                224,
+                292,
+                235
+            ]
+        }
+    },
+    "6": {
+        "objects": "person",
+        "obj_bbox": [
+            259,
+            214,
+            285,
+            236
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                260,
+                215,
+                265,
+                220
+            ]
+        },
+        "1": {
+            "parts": "torso",
+            "part_bbox": [
+                263,
+                215,
+                273,
+                222
+            ]
+        },
+        "2": {
+            "parts": "rlarm",
+            "part_bbox": [
+                265,
+                225,
+                268,
+                232
+            ]
+        },
+        "3": {
+            "parts": "ruarm",
+            "part_bbox": [
+                264,
+                221,
+                267,
+                227
+            ]
+        }
+    }
+}

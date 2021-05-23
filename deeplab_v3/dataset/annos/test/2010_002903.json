@@ -1,0 +1,181 @@
+{
+    "img_name": "2010_002903",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2010_002903.mat",
+    "num_obj": 2,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            122,
+            0,
+            345,
+            392
+        ],
+        "0": {
+            "parts": "fliplate",
+            "part_bbox": [
+                287,
+                261,
+                308,
+                303
+            ]
+        },
+        "1": {
+            "parts": "frontside",
+            "part_bbox": [
+                132,
+                89,
+                318,
+                392
+            ]
+        },
+        "2": {
+            "parts": "rightside",
+            "part_bbox": [
+                136,
+                0,
+                312,
+                159
+            ]
+        },
+        "3": {
+            "parts": "door_1",
+            "part_bbox": [
+                190,
+                44,
+                290,
+                88
+            ]
+        },
+        "4": {
+            "parts": "door_2",
+            "part_bbox": [
+                187,
+                21,
+                277,
+                52
+            ]
+        },
+        "5": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                167,
+                283,
+                184,
+                302
+            ]
+        },
+        "6": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                172,
+                62,
+                198,
+                86
+            ]
+        },
+        "7": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                206,
+                362,
+                236,
+                390
+            ]
+        },
+        "8": {
+            "parts": "headlight_2",
+            "part_bbox": [
+                216,
+                146,
+                247,
+                176
+            ]
+        },
+        "9": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                253,
+                91,
+                345,
+                173
+            ]
+        },
+        "10": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                246,
+                13,
+                300,
+                49
+            ]
+        },
+        "11": {
+            "parts": "wheel_3",
+            "part_bbox": [
+                301,
+                304,
+                326,
+                369
+            ]
+        },
+        "12": {
+            "parts": "window_1",
+            "part_bbox": [
+                133,
+                96,
+                186,
+                283
+            ]
+        },
+        "13": {
+            "parts": "window_2",
+            "part_bbox": [
+                147,
+                61,
+                191,
+                90
+            ]
+        }
+    },
+    "1": {
+        "objects": "person",
+        "obj_bbox": [
+            137,
+            181,
+            181,
+            240
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                137,
+                193,
+                167,
+                222
+            ]
+        },
+        "1": {
+            "parts": "torso",
+            "part_bbox": [
+                162,
+                181,
+                181,
+                240
+            ]
+        },
+        "2": {
+            "parts": "neck",
+            "part_bbox": [
+                156,
+                200,
+                174,
+                220
+            ]
+        }
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "img_name": "2010_001220",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2010_001220.mat",
+    "num_obj": 1,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            1,
+            0,
+            375,
+            498
+        ],
+        "0": {
+            "parts": "bliplate",
+            "part_bbox": [
+                316,
+                62,
+                375,
+                230
+            ]
+        },
+        "1": {
+            "parts": "backside",
+            "part_bbox": [
+                1,
+                0,
+                375,
+                498
+            ]
+        }
+    }
+}

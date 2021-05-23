@@ -1,0 +1,343 @@
+{
+    "img_name": "2009_004962",
+    "img_size": [
+        366,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2009_004962.mat",
+    "num_obj": 4,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            171,
+            31,
+            201,
+            55
+        ],
+        "0": {
+            "parts": "rightside",
+            "part_bbox": [
+                171,
+                31,
+                198,
+                55
+            ]
+        },
+        "1": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                191,
+                36,
+                201,
+                46
+            ]
+        },
+        "2": {
+            "parts": "window_1",
+            "part_bbox": [
+                175,
+                35,
+                182,
+                44
+            ]
+        },
+        "3": {
+            "parts": "window_2",
+            "part_bbox": [
+                175,
+                47,
+                183,
+                55
+            ]
+        }
+    },
+    "1": {
+        "objects": "bus",
+        "obj_bbox": [
+            79,
+            51,
+            285,
+            480
+        ],
+        "0": {
+            "parts": "fliplate",
+            "part_bbox": [
+                245,
+                404,
+                259,
+                435
+            ]
+        },
+        "1": {
+            "parts": "frontside",
+            "part_bbox": [
+                79,
+                322,
+                285,
+                468
+            ]
+        },
+        "2": {
+            "parts": "rightside",
+            "part_bbox": [
+                82,
+                51,
+                283,
+                356
+            ]
+        },
+        "3": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                132,
+                473,
+                148,
+                480
+            ]
+        },
+        "4": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                121,
+                304,
+                143,
+                318
+            ]
+        },
+        "5": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                231,
+                361,
+                242,
+                374
+            ]
+        },
+        "6": {
+            "parts": "headlight_2",
+            "part_bbox": [
+                224,
+                448,
+                234,
+                460
+            ]
+        },
+        "7": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                223,
+                231,
+                284,
+                253
+            ]
+        },
+        "8": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                209,
+                95,
+                248,
+                109
+            ]
+        },
+        "9": {
+            "parts": "window_1",
+            "part_bbox": [
+                111,
+                327,
+                206,
+                463
+            ]
+        },
+        "10": {
+            "parts": "window_2",
+            "part_bbox": [
+                108,
+                76,
+                178,
+                261
+            ]
+        },
+        "11": {
+            "parts": "window_3",
+            "part_bbox": [
+                108,
+                271,
+                192,
+                321
+            ]
+        },
+        "12": {
+            "parts": "window_4",
+            "part_bbox": [
+                142,
+                54,
+                176,
+                68
+            ]
+        },
+        "13": {
+            "parts": "window_5",
+            "part_bbox": [
+                135,
+                66,
+                175,
+                75
+            ]
+        }
+    },
+    "2": {
+        "objects": "person",
+        "obj_bbox": [
+            154,
+            144,
+            175,
+            163
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                154,
+                148,
+                170,
+                161
+            ]
+        },
+        "1": {
+            "parts": "lear",
+            "part_bbox": [
+                159,
+                158,
+                163,
+                160
+            ]
+        },
+        "2": {
+            "parts": "leye",
+            "part_bbox": [
+                160,
+                157,
+                161,
+                158
+            ]
+        },
+        "3": {
+            "parts": "reye",
+            "part_bbox": [
+                159,
+                152,
+                160,
+                153
+            ]
+        },
+        "4": {
+            "parts": "mouth",
+            "part_bbox": [
+                163,
+                154,
+                164,
+                155
+            ]
+        },
+        "5": {
+            "parts": "hair",
+            "part_bbox": [
+                156,
+                150,
+                157,
+                158
+            ]
+        },
+        "6": {
+            "parts": "nose",
+            "part_bbox": [
+                161,
+                154,
+                162,
+                155
+            ]
+        },
+        "7": {
+            "parts": "torso",
+            "part_bbox": [
+                165,
+                144,
+                175,
+                163
+            ]
+        }
+    },
+    "3": {
+        "objects": "person",
+        "obj_bbox": [
+            155,
+            78,
+            176,
+            99
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                155,
+                85,
+                167,
+                95
+            ]
+        },
+        "1": {
+            "parts": "leye",
+            "part_bbox": [
+                162,
+                92,
+                163,
+                93
+            ]
+        },
+        "2": {
+            "parts": "reye",
+            "part_bbox": [
+                160,
+                89,
+                161,
+                90
+            ]
+        },
+        "3": {
+            "parts": "mouth",
+            "part_bbox": [
+                163,
+                91,
+                164,
+                92
+            ]
+        },
+        "4": {
+            "parts": "hair",
+            "part_bbox": [
+                155,
+                84,
+                162,
+                94
+            ]
+        },
+        "5": {
+            "parts": "nose",
+            "part_bbox": [
+                164,
+                90,
+                165,
+                91
+            ]
+        },
+        "6": {
+            "parts": "torso",
+            "part_bbox": [
+                165,
+                78,
+                176,
+                99
+            ]
+        }
+    }
+}

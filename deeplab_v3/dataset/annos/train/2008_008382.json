@@ -1,0 +1,208 @@
+{
+    "img_name": "2008_008382",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_008382.mat",
+    "num_obj": 3,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            138,
+            0,
+            175,
+            64
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                143,
+                19,
+                158,
+                53
+            ]
+        },
+        "1": {
+            "parts": "rightside",
+            "part_bbox": [
+                141,
+                2,
+                169,
+                44
+            ]
+        },
+        "2": {
+            "parts": "roofside",
+            "part_bbox": [
+                140,
+                3,
+                143,
+                23
+            ]
+        },
+        "3": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                157,
+                38,
+                162,
+                44
+            ]
+        },
+        "4": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                161,
+                26,
+                175,
+                38
+            ]
+        },
+        "5": {
+            "parts": "window_1",
+            "part_bbox": [
+                144,
+                20,
+                150,
+                34
+            ]
+        },
+        "6": {
+            "parts": "window_2",
+            "part_bbox": [
+                143,
+                4,
+                153,
+                21
+            ]
+        }
+    },
+    "1": {
+        "objects": "person",
+        "obj_bbox": [
+            107,
+            309,
+            374,
+            473
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                107,
+                316,
+                182,
+                388
+            ]
+        },
+        "1": {
+            "parts": "torso",
+            "part_bbox": [
+                162,
+                311,
+                374,
+                455
+            ]
+        },
+        "2": {
+            "parts": "llarm",
+            "part_bbox": [
+                285,
+                370,
+                317,
+                407
+            ]
+        },
+        "3": {
+            "parts": "luarm",
+            "part_bbox": [
+                202,
+                309,
+                318,
+                386
+            ]
+        },
+        "4": {
+            "parts": "rlarm",
+            "part_bbox": [
+                252,
+                441,
+                310,
+                473
+            ]
+        },
+        "5": {
+            "parts": "ruarm",
+            "part_bbox": [
+                198,
+                443,
+                249,
+                472
+            ]
+        }
+    },
+    "2": {
+        "objects": "train",
+        "obj_bbox": [
+            83,
+            75,
+            220,
+            216
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                83,
+                75,
+                220,
+                216
+            ]
+        },
+        "1": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                93,
+                117,
+                104,
+                127
+            ]
+        },
+        "2": {
+            "parts": "headlight_2",
+            "part_bbox": [
+                159,
+                142,
+                169,
+                151
+            ]
+        },
+        "3": {
+            "parts": "headlight_3",
+            "part_bbox": [
+                159,
+                87,
+                167,
+                94
+            ]
+        },
+        "4": {
+            "parts": "hfrontside",
+            "part_bbox": [
+                99,
+                75,
+                220,
+                168
+            ]
+        },
+        "5": {
+            "parts": "hleftside",
+            "part_bbox": [
+                92,
+                160,
+                216,
+                216
+            ]
+        }
+    }
+}

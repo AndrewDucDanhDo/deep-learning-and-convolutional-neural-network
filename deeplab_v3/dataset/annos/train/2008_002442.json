@@ -1,0 +1,190 @@
+{
+    "img_name": "2008_002442",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_002442.mat",
+    "num_obj": 8,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            0,
+            358,
+            50,
+            479
+        ],
+        "0": {
+            "parts": "bliplate",
+            "part_bbox": [
+                11,
+                421,
+                22,
+                451
+            ]
+        },
+        "1": {
+            "parts": "backside",
+            "part_bbox": [
+                0,
+                394,
+                41,
+                479
+            ]
+        },
+        "2": {
+            "parts": "leftside",
+            "part_bbox": [
+                1,
+                358,
+                36,
+                395
+            ]
+        }
+    },
+    "1": {
+        "objects": "chair",
+        "obj_bbox": [
+            0,
+            62,
+            71,
+            126
+        ]
+    },
+    "2": {
+        "objects": "chair",
+        "obj_bbox": [
+            10,
+            68,
+            139,
+            117
+        ]
+    },
+    "3": {
+        "objects": "chair",
+        "obj_bbox": [
+            7,
+            162,
+            50,
+            199
+        ]
+    },
+    "4": {
+        "objects": "chair",
+        "obj_bbox": [
+            11,
+            113,
+            109,
+            188
+        ]
+    },
+    "5": {
+        "objects": "chair",
+        "obj_bbox": [
+            0,
+            251,
+            39,
+            292
+        ]
+    },
+    "6": {
+        "objects": "chair",
+        "obj_bbox": [
+            0,
+            293,
+            39,
+            334
+        ]
+    },
+    "7": {
+        "objects": "dog",
+        "obj_bbox": [
+            38,
+            9,
+            375,
+            387
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                38,
+                91,
+                332,
+                386
+            ]
+        },
+        "1": {
+            "parts": "lear",
+            "part_bbox": [
+                79,
+                326,
+                272,
+                386
+            ]
+        },
+        "2": {
+            "parts": "rear",
+            "part_bbox": [
+                81,
+                92,
+                287,
+                194
+            ]
+        },
+        "3": {
+            "parts": "leye",
+            "part_bbox": [
+                173,
+                314,
+                190,
+                329
+            ]
+        },
+        "4": {
+            "parts": "reye",
+            "part_bbox": [
+                165,
+                218,
+                186,
+                256
+            ]
+        },
+        "5": {
+            "parts": "muzzle",
+            "part_bbox": [
+                199,
+                188,
+                329,
+                331
+            ]
+        },
+        "6": {
+            "parts": "nose",
+            "part_bbox": [
+                258,
+                275,
+                301,
+                327
+            ]
+        },
+        "7": {
+            "parts": "torso",
+            "part_bbox": [
+                218,
+                75,
+                375,
+                387
+            ]
+        },
+        "8": {
+            "parts": "rfleg",
+            "part_bbox": [
+                321,
+                9,
+                375,
+                122
+            ]
+        }
+    }
+}

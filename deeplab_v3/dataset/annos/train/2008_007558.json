@@ -1,0 +1,109 @@
+{
+    "img_name": "2008_007558",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_007558.mat",
+    "num_obj": 3,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            190,
+            410,
+            375,
+            500
+        ],
+        "0": {
+            "parts": "backside",
+            "part_bbox": [
+                190,
+                410,
+                375,
+                500
+            ]
+        },
+        "1": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                317,
+                428,
+                375,
+                453
+            ]
+        }
+    },
+    "1": {
+        "objects": "motorbike",
+        "obj_bbox": [
+            7,
+            79,
+            368,
+            411
+        ],
+        "0": {
+            "parts": "fwheel",
+            "part_bbox": [
+                72,
+                307,
+                162,
+                411
+            ]
+        },
+        "1": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                37,
+                308,
+                76,
+                340
+            ]
+        }
+    },
+    "2": {
+        "objects": "car",
+        "obj_bbox": [
+            0,
+            0,
+            254,
+            168
+        ],
+        "0": {
+            "parts": "fliplate",
+            "part_bbox": [
+                134,
+                93,
+                190,
+                134
+            ]
+        },
+        "1": {
+            "parts": "frontside",
+            "part_bbox": [
+                1,
+                0,
+                254,
+                168
+            ]
+        },
+        "2": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                43,
+                117,
+                95,
+                143
+            ]
+        },
+        "3": {
+            "parts": "headlight_2",
+            "part_bbox": [
+                154,
+                0,
+                205,
+                53
+            ]
+        }
+    }
+}

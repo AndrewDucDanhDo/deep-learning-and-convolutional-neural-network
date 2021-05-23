@@ -1,0 +1,208 @@
+{
+    "img_name": "2010_003734",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2010_003734.mat",
+    "num_obj": 3,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            124,
+            49,
+            153,
+            127
+        ],
+        "0": {
+            "parts": "leftside",
+            "part_bbox": [
+                124,
+                49,
+                150,
+                127
+            ]
+        },
+        "1": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                142,
+                63,
+                153,
+                75
+            ]
+        },
+        "2": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                138,
+                123,
+                150,
+                127
+            ]
+        }
+    },
+    "1": {
+        "objects": "car",
+        "obj_bbox": [
+            5,
+            0,
+            375,
+            500
+        ],
+        "0": {
+            "parts": "bliplate",
+            "part_bbox": [
+                312,
+                130,
+                361,
+                179
+            ]
+        },
+        "1": {
+            "parts": "backside",
+            "part_bbox": [
+                57,
+                114,
+                373,
+                498
+            ]
+        },
+        "2": {
+            "parts": "window_1",
+            "part_bbox": [
+                5,
+                121,
+                63,
+                434
+            ]
+        }
+    },
+    "2": {
+        "objects": "dog",
+        "obj_bbox": [
+            106,
+            241,
+            310,
+            323
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                106,
+                248,
+                175,
+                294
+            ]
+        },
+        "1": {
+            "parts": "leye",
+            "part_bbox": [
+                129,
+                283,
+                134,
+                290
+            ]
+        },
+        "2": {
+            "parts": "reye",
+            "part_bbox": [
+                129,
+                261,
+                134,
+                269
+            ]
+        },
+        "3": {
+            "parts": "muzzle",
+            "part_bbox": [
+                136,
+                258,
+                174,
+                288
+            ]
+        },
+        "4": {
+            "parts": "nose",
+            "part_bbox": [
+                143,
+                271,
+                157,
+                286
+            ]
+        },
+        "5": {
+            "parts": "torso",
+            "part_bbox": [
+                156,
+                241,
+                286,
+                323
+            ]
+        },
+        "6": {
+            "parts": "neck",
+            "part_bbox": [
+                154,
+                244,
+                182,
+                293
+            ]
+        },
+        "7": {
+            "parts": "lfleg",
+            "part_bbox": [
+                213,
+                282,
+                310,
+                306
+            ]
+        },
+        "8": {
+            "parts": "lfpa",
+            "part_bbox": [
+                292,
+                282,
+                310,
+                300
+            ]
+        },
+        "9": {
+            "parts": "rfleg",
+            "part_bbox": [
+                213,
+                246,
+                303,
+                272
+            ]
+        },
+        "10": {
+            "parts": "rfpa",
+            "part_bbox": [
+                284,
+                257,
+                301,
+                272
+            ]
+        },
+        "11": {
+            "parts": "rbleg",
+            "part_bbox": [
+                282,
+                245,
+                294,
+                257
+            ]
+        },
+        "12": {
+            "parts": "rbpa",
+            "part_bbox": [
+                282,
+                246,
+                296,
+                257
+            ]
+        }
+    }
+}

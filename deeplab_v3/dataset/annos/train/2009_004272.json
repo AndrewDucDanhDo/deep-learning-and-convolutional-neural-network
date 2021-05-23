@@ -1,0 +1,100 @@
+{
+    "img_name": "2009_004272",
+    "img_size": [
+        314,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2009_004272.mat",
+    "num_obj": 1,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            70,
+            163,
+            208,
+            383
+        ],
+        "0": {
+            "parts": "bliplate",
+            "part_bbox": [
+                162,
+                300,
+                180,
+                333
+            ]
+        },
+        "1": {
+            "parts": "backside",
+            "part_bbox": [
+                70,
+                212,
+                188,
+                383
+            ]
+        },
+        "2": {
+            "parts": "leftside",
+            "part_bbox": [
+                74,
+                163,
+                190,
+                230
+            ]
+        },
+        "3": {
+            "parts": "door_1",
+            "part_bbox": [
+                77,
+                168,
+                164,
+                211
+            ]
+        },
+        "4": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                96,
+                165,
+                109,
+                183
+            ]
+        },
+        "5": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                149,
+                195,
+                208,
+                228
+            ]
+        },
+        "6": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                131,
+                164,
+                171,
+                180
+            ]
+        },
+        "7": {
+            "parts": "wheel_3",
+            "part_bbox": [
+                181,
+                335,
+                203,
+                370
+            ]
+        },
+        "8": {
+            "parts": "window_1",
+            "part_bbox": [
+                72,
+                221,
+                102,
+                341
+            ]
+        }
+    }
+}

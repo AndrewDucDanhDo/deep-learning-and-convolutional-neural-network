@@ -1,0 +1,289 @@
+{
+    "img_name": "2008_000199",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_000199.mat",
+    "num_obj": 2,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            86,
+            228,
+            186,
+            389
+        ],
+        "0": {
+            "parts": "backside",
+            "part_bbox": [
+                89,
+                306,
+                137,
+                389
+            ]
+        },
+        "1": {
+            "parts": "leftside",
+            "part_bbox": [
+                92,
+                228,
+                137,
+                318
+            ]
+        },
+        "2": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                167,
+                361,
+                186,
+                388
+            ]
+        },
+        "3": {
+            "parts": "window_1",
+            "part_bbox": [
+                96,
+                228,
+                118,
+                264
+            ]
+        },
+        "4": {
+            "parts": "window_2",
+            "part_bbox": [
+                96,
+                265,
+                115,
+                299
+            ]
+        },
+        "5": {
+            "parts": "window_3",
+            "part_bbox": [
+                96,
+                314,
+                119,
+                333
+            ]
+        }
+    },
+    "1": {
+        "objects": "person",
+        "obj_bbox": [
+            56,
+            412,
+            353,
+            499
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                56,
+                438,
+                105,
+                471
+            ]
+        },
+        "1": {
+            "parts": "lear",
+            "part_bbox": [
+                78,
+                463,
+                91,
+                472
+            ]
+        },
+        "2": {
+            "parts": "leye",
+            "part_bbox": [
+                85,
+                451,
+                87,
+                456
+            ]
+        },
+        "3": {
+            "parts": "reye",
+            "part_bbox": [
+                85,
+                441,
+                87,
+                447
+            ]
+        },
+        "4": {
+            "parts": "lebrow",
+            "part_bbox": [
+                81,
+                451,
+                83,
+                459
+            ]
+        },
+        "5": {
+            "parts": "rebrow",
+            "part_bbox": [
+                80,
+                441,
+                84,
+                447
+            ]
+        },
+        "6": {
+            "parts": "mouth",
+            "part_bbox": [
+                97,
+                446,
+                98,
+                455
+            ]
+        },
+        "7": {
+            "parts": "hair",
+            "part_bbox": [
+                56,
+                440,
+                86,
+                471
+            ]
+        },
+        "8": {
+            "parts": "nose",
+            "part_bbox": [
+                82,
+                446,
+                94,
+                452
+            ]
+        },
+        "9": {
+            "parts": "torso",
+            "part_bbox": [
+                99,
+                424,
+                203,
+                485
+            ]
+        },
+        "10": {
+            "parts": "neck",
+            "part_bbox": [
+                93,
+                448,
+                114,
+                470
+            ]
+        },
+        "11": {
+            "parts": "llarm",
+            "part_bbox": [
+                162,
+                481,
+                214,
+                499
+            ]
+        },
+        "12": {
+            "parts": "luarm",
+            "part_bbox": [
+                112,
+                478,
+                166,
+                497
+            ]
+        },
+        "13": {
+            "parts": "lhand",
+            "part_bbox": [
+                212,
+                484,
+                233,
+                499
+            ]
+        },
+        "14": {
+            "parts": "rlarm",
+            "part_bbox": [
+                160,
+                412,
+                206,
+                427
+            ]
+        },
+        "15": {
+            "parts": "ruarm",
+            "part_bbox": [
+                113,
+                416,
+                167,
+                432
+            ]
+        },
+        "16": {
+            "parts": "rhand",
+            "part_bbox": [
+                202,
+                414,
+                223,
+                424
+            ]
+        },
+        "17": {
+            "parts": "llleg",
+            "part_bbox": [
+                276,
+                442,
+                332,
+                471
+            ]
+        },
+        "18": {
+            "parts": "luleg",
+            "part_bbox": [
+                185,
+                446,
+                277,
+                484
+            ]
+        },
+        "19": {
+            "parts": "lfoot",
+            "part_bbox": [
+                327,
+                447,
+                353,
+                468
+            ]
+        },
+        "20": {
+            "parts": "rlleg",
+            "part_bbox": [
+                265,
+                426,
+                309,
+                449
+            ]
+        },
+        "21": {
+            "parts": "ruleg",
+            "part_bbox": [
+                184,
+                423,
+                275,
+                452
+            ]
+        },
+        "22": {
+            "parts": "rfoot",
+            "part_bbox": [
+                306,
+                439,
+                319,
+                450
+            ]
+        }
+    }
+}

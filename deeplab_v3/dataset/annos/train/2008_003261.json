@@ -1,0 +1,100 @@
+{
+    "img_name": "2008_003261",
+    "img_size": [
+        333,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_003261.mat",
+    "num_obj": 2,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            171,
+            439,
+            180,
+            461
+        ]
+    },
+    "1": {
+        "objects": "aeroplane",
+        "obj_bbox": [
+            70,
+            15,
+            224,
+            486
+        ],
+        "0": {
+            "parts": "body",
+            "part_bbox": [
+                148,
+                18,
+                211,
+                354
+            ]
+        },
+        "1": {
+            "parts": "lwing",
+            "part_bbox": [
+                174,
+                220,
+                204,
+                312
+            ]
+        },
+        "2": {
+            "parts": "engine_1",
+            "part_bbox": [
+                191,
+                172,
+                214,
+                234
+            ]
+        },
+        "3": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                209,
+                242,
+                222,
+                257
+            ]
+        },
+        "4": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                207,
+                228,
+                222,
+                241
+            ]
+        },
+        "5": {
+            "parts": "wheel_3",
+            "part_bbox": [
+                210,
+                64,
+                223,
+                78
+            ]
+        },
+        "6": {
+            "parts": "stern",
+            "part_bbox": [
+                70,
+                331,
+                202,
+                486
+            ]
+        },
+        "7": {
+            "parts": "tail",
+            "part_bbox": [
+                165,
+                451,
+                166,
+                452
+            ]
+        }
+    }
+}

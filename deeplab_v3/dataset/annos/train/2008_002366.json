@@ -1,0 +1,118 @@
+{
+    "img_name": "2008_002366",
+    "img_size": [
+        500,
+        331,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_002366.mat",
+    "num_obj": 2,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            50,
+            0,
+            493,
+            328
+        ],
+        "0": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                199,
+                277,
+                221,
+                316
+            ]
+        },
+        "1": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                207,
+                101,
+                228,
+                138
+            ]
+        },
+        "2": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                301,
+                0,
+                491,
+                37
+            ]
+        },
+        "3": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                129,
+                224,
+                247,
+                296
+            ]
+        }
+    },
+    "1": {
+        "objects": "person",
+        "obj_bbox": [
+            101,
+            127,
+            236,
+            251
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                101,
+                127,
+                197,
+                204
+            ]
+        },
+        "1": {
+            "parts": "leye",
+            "part_bbox": [
+                149,
+                171,
+                154,
+                182
+            ]
+        },
+        "2": {
+            "parts": "reye",
+            "part_bbox": [
+                148,
+                153,
+                156,
+                167
+            ]
+        },
+        "3": {
+            "parts": "nose",
+            "part_bbox": [
+                150,
+                163,
+                166,
+                176
+            ]
+        },
+        "4": {
+            "parts": "torso",
+            "part_bbox": [
+                184,
+                135,
+                236,
+                224
+            ]
+        },
+        "5": {
+            "parts": "luarm",
+            "part_bbox": [
+                185,
+                211,
+                220,
+                251
+            ]
+        }
+    }
+}

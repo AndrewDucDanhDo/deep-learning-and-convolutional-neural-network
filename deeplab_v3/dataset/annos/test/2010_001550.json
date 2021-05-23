@@ -1,0 +1,100 @@
+{
+    "img_name": "2010_001550",
+    "img_size": [
+        333,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2010_001550.mat",
+    "num_obj": 1,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            14,
+            45,
+            326,
+            467
+        ],
+        "0": {
+            "parts": "bliplate",
+            "part_bbox": [
+                98,
+                333,
+                136,
+                403
+            ]
+        },
+        "1": {
+            "parts": "backside",
+            "part_bbox": [
+                14,
+                222,
+                238,
+                459
+            ]
+        },
+        "2": {
+            "parts": "leftside",
+            "part_bbox": [
+                17,
+                59,
+                276,
+                237
+            ]
+        },
+        "3": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                173,
+                69,
+                190,
+                93
+            ]
+        },
+        "4": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                240,
+                45,
+                301,
+                105
+            ]
+        },
+        "5": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                184,
+                116,
+                326,
+                203
+            ]
+        },
+        "6": {
+            "parts": "wheel_3",
+            "part_bbox": [
+                247,
+                325,
+                304,
+                412
+            ]
+        },
+        "7": {
+            "parts": "wheel_4",
+            "part_bbox": [
+                277,
+                200,
+                294,
+                221
+            ]
+        },
+        "8": {
+            "parts": "window_1",
+            "part_bbox": [
+                20,
+                174,
+                94,
+                408
+            ]
+        }
+    }
+}

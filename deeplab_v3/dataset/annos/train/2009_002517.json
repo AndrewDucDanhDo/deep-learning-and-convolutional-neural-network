@@ -1,0 +1,262 @@
+{
+    "img_name": "2009_002517",
+    "img_size": [
+        334,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2009_002517.mat",
+    "num_obj": 2,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            194,
+            414,
+            293,
+            500
+        ],
+        "0": {
+            "parts": "fliplate",
+            "part_bbox": [
+                255,
+                456,
+                268,
+                482
+            ]
+        },
+        "1": {
+            "parts": "frontside",
+            "part_bbox": [
+                194,
+                414,
+                281,
+                500
+            ]
+        },
+        "2": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                214,
+                443,
+                221,
+                454
+            ]
+        },
+        "3": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                233,
+                418,
+                249,
+                443
+            ]
+        },
+        "4": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                281,
+                489,
+                293,
+                499
+            ]
+        },
+        "5": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                267,
+                419,
+                292,
+                446
+            ]
+        },
+        "6": {
+            "parts": "window_1",
+            "part_bbox": [
+                197,
+                458,
+                219,
+                500
+            ]
+        }
+    },
+    "1": {
+        "objects": "bus",
+        "obj_bbox": [
+            73,
+            20,
+            289,
+            456
+        ],
+        "0": {
+            "parts": "fliplate",
+            "part_bbox": [
+                240,
+                138,
+                255,
+                165
+            ]
+        },
+        "1": {
+            "parts": "frontside",
+            "part_bbox": [
+                73,
+                42,
+                265,
+                279
+            ]
+        },
+        "2": {
+            "parts": "leftside",
+            "part_bbox": [
+                75,
+                258,
+                267,
+                456
+            ]
+        },
+        "3": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                148,
+                256,
+                181,
+                272
+            ]
+        },
+        "4": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                146,
+                20,
+                178,
+                34
+            ]
+        },
+        "5": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                200,
+                148,
+                217,
+                187
+            ]
+        },
+        "6": {
+            "parts": "headlight_2",
+            "part_bbox": [
+                202,
+                45,
+                220,
+                71
+            ]
+        },
+        "7": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                224,
+                175,
+                288,
+                224
+            ]
+        },
+        "8": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                237,
+                360,
+                289,
+                412
+            ]
+        },
+        "9": {
+            "parts": "wheel_3",
+            "part_bbox": [
+                266,
+                234,
+                287,
+                286
+            ]
+        },
+        "10": {
+            "parts": "wheel_4",
+            "part_bbox": [
+                260,
+                54,
+                287,
+                98
+            ]
+        },
+        "11": {
+            "parts": "window_1",
+            "part_bbox": [
+                131,
+                87,
+                172,
+                222
+            ]
+        },
+        "12": {
+            "parts": "window_2",
+            "part_bbox": [
+                134,
+                225,
+                188,
+                258
+            ]
+        },
+        "13": {
+            "parts": "window_3",
+            "part_bbox": [
+                119,
+                287,
+                180,
+                313
+            ]
+        },
+        "14": {
+            "parts": "window_4",
+            "part_bbox": [
+                123,
+                314,
+                183,
+                338
+            ]
+        },
+        "15": {
+            "parts": "window_5",
+            "part_bbox": [
+                126,
+                339,
+                185,
+                361
+            ]
+        },
+        "16": {
+            "parts": "window_6",
+            "part_bbox": [
+                132,
+                366,
+                188,
+                386
+            ]
+        },
+        "17": {
+            "parts": "window_7",
+            "part_bbox": [
+                133,
+                388,
+                190,
+                407
+            ]
+        },
+        "18": {
+            "parts": "window_8",
+            "part_bbox": [
+                138,
+                409,
+                191,
+                429
+            ]
+        }
+    }
+}

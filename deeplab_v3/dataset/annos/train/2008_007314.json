@@ -1,0 +1,199 @@
+{
+    "img_name": "2008_007314",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_007314.mat",
+    "num_obj": 4,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            305,
+            242,
+            317,
+            255
+        ],
+        "0": {
+            "parts": "backside",
+            "part_bbox": [
+                305,
+                242,
+                316,
+                255
+            ]
+        },
+        "1": {
+            "parts": "window_1",
+            "part_bbox": [
+                306,
+                245,
+                309,
+                248
+            ]
+        },
+        "2": {
+            "parts": "window_2",
+            "part_bbox": [
+                307,
+                250,
+                309,
+                253
+            ]
+        }
+    },
+    "1": {
+        "objects": "car",
+        "obj_bbox": [
+            305,
+            218,
+            318,
+            232
+        ],
+        "0": {
+            "parts": "backside",
+            "part_bbox": [
+                305,
+                218,
+                315,
+                232
+            ]
+        },
+        "1": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                314,
+                218,
+                318,
+                220
+            ]
+        },
+        "2": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                314,
+                229,
+                318,
+                232
+            ]
+        }
+    },
+    "2": {
+        "objects": "car",
+        "obj_bbox": [
+            293,
+            135,
+            347,
+            210
+        ],
+        "0": {
+            "parts": "bliplate",
+            "part_bbox": [
+                316,
+                158,
+                321,
+                170
+            ]
+        },
+        "1": {
+            "parts": "backside",
+            "part_bbox": [
+                293,
+                135,
+                334,
+                197
+            ]
+        },
+        "2": {
+            "parts": "rightside",
+            "part_bbox": [
+                296,
+                190,
+                327,
+                206
+            ]
+        },
+        "3": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                305,
+                135,
+                310,
+                139
+            ]
+        },
+        "4": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                305,
+                199,
+                311,
+                210
+            ]
+        },
+        "5": {
+            "parts": "window_1",
+            "part_bbox": [
+                295,
+                141,
+                308,
+                192
+            ]
+        }
+    },
+    "3": {
+        "objects": "car",
+        "obj_bbox": [
+            302,
+            269,
+            338,
+            316
+        ],
+        "0": {
+            "parts": "bliplate",
+            "part_bbox": [
+                324,
+                289,
+                329,
+                298
+            ]
+        },
+        "1": {
+            "parts": "backside",
+            "part_bbox": [
+                302,
+                272,
+                333,
+                314
+            ]
+        },
+        "2": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                310,
+                269,
+                314,
+                274
+            ]
+        },
+        "3": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                309,
+                311,
+                313,
+                316
+            ]
+        },
+        "4": {
+            "parts": "window_1",
+            "part_bbox": [
+                303,
+                278,
+                310,
+                309
+            ]
+        }
+    }
+}

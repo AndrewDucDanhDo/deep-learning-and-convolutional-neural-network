@@ -1,0 +1,496 @@
+{
+    "img_name": "2010_000645",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2010_000645.mat",
+    "num_obj": 6,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            210,
+            273,
+            231,
+            329
+        ],
+        "0": {
+            "parts": "rightside",
+            "part_bbox": [
+                210,
+                273,
+                230,
+                329
+            ]
+        },
+        "1": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                217,
+                312,
+                220,
+                316
+            ]
+        },
+        "2": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                225,
+                279,
+                231,
+                286
+            ]
+        },
+        "3": {
+            "parts": "window_1",
+            "part_bbox": [
+                212,
+                278,
+                219,
+                288
+            ]
+        },
+        "4": {
+            "parts": "window_2",
+            "part_bbox": [
+                213,
+                288,
+                219,
+                301
+            ]
+        },
+        "5": {
+            "parts": "window_3",
+            "part_bbox": [
+                213,
+                304,
+                219,
+                313
+            ]
+        }
+    },
+    "1": {
+        "objects": "person",
+        "obj_bbox": [
+            219,
+            303,
+            257,
+            319
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                219,
+                309,
+                224,
+                313
+            ]
+        },
+        "1": {
+            "parts": "torso",
+            "part_bbox": [
+                223,
+                304,
+                238,
+                316
+            ]
+        },
+        "2": {
+            "parts": "llarm",
+            "part_bbox": [
+                231,
+                303,
+                236,
+                304
+            ]
+        },
+        "3": {
+            "parts": "luarm",
+            "part_bbox": [
+                225,
+                303,
+                231,
+                308
+            ]
+        },
+        "4": {
+            "parts": "rlarm",
+            "part_bbox": [
+                230,
+                315,
+                235,
+                319
+            ]
+        },
+        "5": {
+            "parts": "ruarm",
+            "part_bbox": [
+                222,
+                314,
+                231,
+                317
+            ]
+        },
+        "6": {
+            "parts": "llleg",
+            "part_bbox": [
+                241,
+                304,
+                255,
+                310
+            ]
+        },
+        "7": {
+            "parts": "luleg",
+            "part_bbox": [
+                235,
+                304,
+                249,
+                311
+            ]
+        },
+        "8": {
+            "parts": "lfoot",
+            "part_bbox": [
+                253,
+                304,
+                257,
+                308
+            ]
+        },
+        "9": {
+            "parts": "rlleg",
+            "part_bbox": [
+                245,
+                309,
+                256,
+                315
+            ]
+        },
+        "10": {
+            "parts": "ruleg",
+            "part_bbox": [
+                234,
+                309,
+                247,
+                315
+            ]
+        },
+        "11": {
+            "parts": "rfoot",
+            "part_bbox": [
+                255,
+                310,
+                256,
+                315
+            ]
+        }
+    },
+    "2": {
+        "objects": "person",
+        "obj_bbox": [
+            225,
+            447,
+            371,
+            486
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                225,
+                447,
+                255,
+                474
+            ]
+        },
+        "1": {
+            "parts": "torso",
+            "part_bbox": [
+                253,
+                464,
+                326,
+                486
+            ]
+        }
+    },
+    "3": {
+        "objects": "person",
+        "obj_bbox": [
+            200,
+            404,
+            374,
+            473
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                200,
+                407,
+                259,
+                457
+            ]
+        },
+        "1": {
+            "parts": "lear",
+            "part_bbox": [
+                225,
+                442,
+                239,
+                447
+            ]
+        },
+        "2": {
+            "parts": "leye",
+            "part_bbox": [
+                230,
+                428,
+                231,
+                429
+            ]
+        },
+        "3": {
+            "parts": "reye",
+            "part_bbox": [
+                230,
+                421,
+                231,
+                422
+            ]
+        },
+        "4": {
+            "parts": "lebrow",
+            "part_bbox": [
+                227,
+                428,
+                228,
+                429
+            ]
+        },
+        "5": {
+            "parts": "rebrow",
+            "part_bbox": [
+                227,
+                419,
+                228,
+                420
+            ]
+        },
+        "6": {
+            "parts": "mouth",
+            "part_bbox": [
+                239,
+                420,
+                243,
+                429
+            ]
+        },
+        "7": {
+            "parts": "nose",
+            "part_bbox": [
+                230,
+                420,
+                239,
+                427
+            ]
+        },
+        "8": {
+            "parts": "torso",
+            "part_bbox": [
+                241,
+                407,
+                346,
+                473
+            ]
+        },
+        "9": {
+            "parts": "llarm",
+            "part_bbox": [
+                313,
+                423,
+                367,
+                460
+            ]
+        },
+        "10": {
+            "parts": "luarm",
+            "part_bbox": [
+                253,
+                430,
+                323,
+                471
+            ]
+        },
+        "11": {
+            "parts": "lhand",
+            "part_bbox": [
+                360,
+                424,
+                374,
+                444
+            ]
+        }
+    },
+    "4": {
+        "objects": "car",
+        "obj_bbox": [
+            212,
+            28,
+            251,
+            134
+        ],
+        "0": {
+            "parts": "fliplate",
+            "part_bbox": [
+                240,
+                129,
+                243,
+                134
+            ]
+        },
+        "1": {
+            "parts": "frontside",
+            "part_bbox": [
+                219,
+                76,
+                247,
+                134
+            ]
+        },
+        "2": {
+            "parts": "rightside",
+            "part_bbox": [
+                220,
+                40,
+                248,
+                117
+            ]
+        },
+        "3": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                227,
+                75,
+                231,
+                83
+            ]
+        },
+        "4": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                236,
+                110,
+                239,
+                122
+            ]
+        },
+        "5": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                238,
+                92,
+                251,
+                106
+            ]
+        },
+        "6": {
+            "parts": "window_1",
+            "part_bbox": [
+                221,
+                46,
+                229,
+                63
+            ]
+        },
+        "7": {
+            "parts": "window_2",
+            "part_bbox": [
+                221,
+                66,
+                230,
+                82
+            ]
+        },
+        "8": {
+            "parts": "window_3",
+            "part_bbox": [
+                222,
+                79,
+                230,
+                101
+            ]
+        }
+    },
+    "5": {
+        "objects": "car",
+        "obj_bbox": [
+            202,
+            0,
+            281,
+            59
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                204,
+                0,
+                270,
+                59
+            ]
+        },
+        "1": {
+            "parts": "rightside",
+            "part_bbox": [
+                233,
+                0,
+                270,
+                15
+            ]
+        },
+        "2": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                242,
+                10,
+                250,
+                26
+            ]
+        },
+        "3": {
+            "parts": "headlight_2",
+            "part_bbox": [
+                239,
+                52,
+                245,
+                57
+            ]
+        },
+        "4": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                253,
+                0,
+                281,
+                10
+            ]
+        },
+        "5": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                263,
+                27,
+                275,
+                51
+            ]
+        },
+        "6": {
+            "parts": "window_1",
+            "part_bbox": [
+                206,
+                0,
+                227,
+                32
+            ]
+        }
+    }
+}

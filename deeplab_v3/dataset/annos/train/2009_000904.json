@@ -1,0 +1,217 @@
+{
+    "img_name": "2009_000904",
+    "img_size": [
+        500,
+        335,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2009_000904.mat",
+    "num_obj": 3,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            185,
+            274,
+            200,
+            299
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                185,
+                274,
+                199,
+                292
+            ]
+        },
+        "1": {
+            "parts": "leftside",
+            "part_bbox": [
+                186,
+                291,
+                198,
+                299
+            ]
+        }
+    },
+    "1": {
+        "objects": "bird",
+        "obj_bbox": [
+            193,
+            211,
+            400,
+            283
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                193,
+                252,
+                209,
+                283
+            ]
+        },
+        "1": {
+            "parts": "beak",
+            "part_bbox": [
+                199,
+                268,
+                207,
+                283
+            ]
+        },
+        "2": {
+            "parts": "torso",
+            "part_bbox": [
+                207,
+                215,
+                319,
+                268
+            ]
+        },
+        "3": {
+            "parts": "neck",
+            "part_bbox": [
+                207,
+                249,
+                266,
+                268
+            ]
+        },
+        "4": {
+            "parts": "lleg",
+            "part_bbox": [
+                318,
+                220,
+                400,
+                237
+            ]
+        },
+        "5": {
+            "parts": "lfoot",
+            "part_bbox": [
+                392,
+                221,
+                399,
+                234
+            ]
+        },
+        "6": {
+            "parts": "rleg",
+            "part_bbox": [
+                307,
+                245,
+                386,
+                258
+            ]
+        },
+        "7": {
+            "parts": "rfoot",
+            "part_bbox": [
+                382,
+                247,
+                387,
+                258
+            ]
+        },
+        "8": {
+            "parts": "tail",
+            "part_bbox": [
+                301,
+                211,
+                331,
+                228
+            ]
+        }
+    },
+    "2": {
+        "objects": "bird",
+        "obj_bbox": [
+            215,
+            44,
+            403,
+            117
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                215,
+                94,
+                239,
+                117
+            ]
+        },
+        "1": {
+            "parts": "beak",
+            "part_bbox": [
+                227,
+                106,
+                239,
+                117
+            ]
+        },
+        "2": {
+            "parts": "torso",
+            "part_bbox": [
+                231,
+                56,
+                329,
+                104
+            ]
+        },
+        "3": {
+            "parts": "neck",
+            "part_bbox": [
+                224,
+                84,
+                281,
+                104
+            ]
+        },
+        "4": {
+            "parts": "lleg",
+            "part_bbox": [
+                327,
+                53,
+                403,
+                71
+            ]
+        },
+        "5": {
+            "parts": "lfoot",
+            "part_bbox": [
+                394,
+                50,
+                403,
+                64
+            ]
+        },
+        "6": {
+            "parts": "rleg",
+            "part_bbox": [
+                327,
+                85,
+                394,
+                101
+            ]
+        },
+        "7": {
+            "parts": "rfoot",
+            "part_bbox": [
+                388,
+                91,
+                394,
+                101
+            ]
+        },
+        "8": {
+            "parts": "tail",
+            "part_bbox": [
+                302,
+                44,
+                334,
+                61
+            ]
+        }
+    }
+}

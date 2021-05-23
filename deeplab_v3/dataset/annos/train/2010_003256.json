@@ -1,0 +1,46 @@
+{
+    "img_name": "2010_003256",
+    "img_size": [
+        333,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2010_003256.mat",
+    "num_obj": 1,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            61,
+            0,
+            276,
+            498
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                61,
+                0,
+                276,
+                498
+            ]
+        },
+        "1": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                105,
+                357,
+                249,
+                498
+            ]
+        },
+        "2": {
+            "parts": "headlight_2",
+            "part_bbox": [
+                112,
+                0,
+                263,
+                141
+            ]
+        }
+    }
+}

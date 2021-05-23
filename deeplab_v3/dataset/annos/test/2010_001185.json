@@ -1,0 +1,136 @@
+{
+    "img_name": "2010_001185",
+    "img_size": [
+        176,
+        250,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2010_001185.mat",
+    "num_obj": 2,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            1,
+            1,
+            176,
+            250
+        ],
+        "0": {
+            "parts": "backside",
+            "part_bbox": [
+                51,
+                1,
+                176,
+                242
+            ]
+        },
+        "1": {
+            "parts": "rightside",
+            "part_bbox": [
+                44,
+                217,
+                176,
+                249
+            ]
+        },
+        "2": {
+            "parts": "door_1",
+            "part_bbox": [
+                1,
+                14,
+                55,
+                245
+            ]
+        }
+    },
+    "1": {
+        "objects": "dog",
+        "obj_bbox": [
+            55,
+            82,
+            176,
+            153
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                56,
+                110,
+                103,
+                153
+            ]
+        },
+        "1": {
+            "parts": "lear",
+            "part_bbox": [
+                57,
+                137,
+                83,
+                153
+            ]
+        },
+        "2": {
+            "parts": "rear",
+            "part_bbox": [
+                55,
+                111,
+                81,
+                124
+            ]
+        },
+        "3": {
+            "parts": "muzzle",
+            "part_bbox": [
+                85,
+                116,
+                103,
+                134
+            ]
+        },
+        "4": {
+            "parts": "nose",
+            "part_bbox": [
+                94,
+                117,
+                99,
+                125
+            ]
+        },
+        "5": {
+            "parts": "torso",
+            "part_bbox": [
+                98,
+                85,
+                176,
+                151
+            ]
+        },
+        "6": {
+            "parts": "neck",
+            "part_bbox": [
+                89,
+                114,
+                109,
+                147
+            ]
+        },
+        "7": {
+            "parts": "lfleg",
+            "part_bbox": [
+                135,
+                136,
+                176,
+                152
+            ]
+        },
+        "8": {
+            "parts": "rfleg",
+            "part_bbox": [
+                134,
+                111,
+                176,
+                121
+            ]
+        }
+    }
+}

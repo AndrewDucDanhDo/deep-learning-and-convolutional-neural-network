@@ -1,0 +1,199 @@
+{
+    "img_name": "2008_007480",
+    "img_size": [
+        332,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_007480.mat",
+    "num_obj": 2,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            268,
+            250,
+            331,
+            364
+        ],
+        "0": {
+            "parts": "bliplate",
+            "part_bbox": [
+                317,
+                319,
+                323,
+                334
+            ]
+        },
+        "1": {
+            "parts": "backside",
+            "part_bbox": [
+                279,
+                313,
+                331,
+                364
+            ]
+        },
+        "2": {
+            "parts": "leftside",
+            "part_bbox": [
+                273,
+                256,
+                331,
+                313
+            ]
+        },
+        "3": {
+            "parts": "roofside",
+            "part_bbox": [
+                268,
+                273,
+                282,
+                357
+            ]
+        },
+        "4": {
+            "parts": "door_1",
+            "part_bbox": [
+                282,
+                339,
+                325,
+                360
+            ]
+        },
+        "5": {
+            "parts": "door_2",
+            "part_bbox": [
+                284,
+                315,
+                327,
+                339
+            ]
+        },
+        "6": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                281,
+                250,
+                297,
+                259
+            ]
+        },
+        "7": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                324,
+                294,
+                331,
+                301
+            ]
+        },
+        "8": {
+            "parts": "window_1",
+            "part_bbox": [
+                287,
+                318,
+                304,
+                334
+            ]
+        },
+        "9": {
+            "parts": "window_2",
+            "part_bbox": [
+                285,
+                341,
+                303,
+                356
+            ]
+        },
+        "10": {
+            "parts": "window_3",
+            "part_bbox": [
+                279,
+                278,
+                298,
+                291
+            ]
+        },
+        "11": {
+            "parts": "window_4",
+            "part_bbox": [
+                274,
+                263,
+                294,
+                275
+            ]
+        }
+    },
+    "1": {
+        "objects": "aeroplane",
+        "obj_bbox": [
+            15,
+            0,
+            317,
+            485
+        ],
+        "0": {
+            "parts": "body",
+            "part_bbox": [
+                123,
+                106,
+                263,
+                485
+            ]
+        },
+        "1": {
+            "parts": "rwing",
+            "part_bbox": [
+                173,
+                0,
+                226,
+                226
+            ]
+        },
+        "2": {
+            "parts": "engine_1",
+            "part_bbox": [
+                191,
+                50,
+                257,
+                119
+            ]
+        },
+        "3": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                235,
+                116,
+                257,
+                129
+            ]
+        },
+        "4": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                294,
+                387,
+                317,
+                404
+            ]
+        },
+        "5": {
+            "parts": "wheel_3",
+            "part_bbox": [
+                294,
+                406,
+                316,
+                421
+            ]
+        },
+        "6": {
+            "parts": "stern",
+            "part_bbox": [
+                15,
+                2,
+                181,
+                109
+            ]
+        }
+    }
+}

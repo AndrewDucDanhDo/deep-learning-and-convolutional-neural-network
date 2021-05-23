@@ -1,0 +1,136 @@
+{
+    "img_name": "2009_001984",
+    "img_size": [
+        318,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2009_001984.mat",
+    "num_obj": 3,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            1,
+            69,
+            98,
+            367
+        ],
+        "0": {
+            "parts": "backside",
+            "part_bbox": [
+                1,
+                228,
+                67,
+                367
+            ]
+        },
+        "1": {
+            "parts": "leftside",
+            "part_bbox": [
+                1,
+                69,
+                95,
+                240
+            ]
+        },
+        "2": {
+            "parts": "door_1",
+            "part_bbox": [
+                1,
+                120,
+                76,
+                195
+            ]
+        },
+        "3": {
+            "parts": "door_2",
+            "part_bbox": [
+                1,
+                69,
+                65,
+                127
+            ]
+        },
+        "4": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                57,
+                176,
+                98,
+                219
+            ]
+        },
+        "5": {
+            "parts": "window_1",
+            "part_bbox": [
+                1,
+                88,
+                5,
+                188
+            ]
+        },
+        "6": {
+            "parts": "window_2",
+            "part_bbox": [
+                1,
+                236,
+                8,
+                354
+            ]
+        }
+    },
+    "1": {
+        "objects": "car",
+        "obj_bbox": [
+            0,
+            364,
+            166,
+            500
+        ],
+        "0": {
+            "parts": "rightside",
+            "part_bbox": [
+                0,
+                364,
+                166,
+                500
+            ]
+        },
+        "1": {
+            "parts": "door_1",
+            "part_bbox": [
+                0,
+                438,
+                154,
+                500
+            ]
+        }
+    },
+    "2": {
+        "objects": "motorbike",
+        "obj_bbox": [
+            17,
+            15,
+            308,
+            484
+        ],
+        "0": {
+            "parts": "fwheel",
+            "part_bbox": [
+                148,
+                367,
+                272,
+                484
+            ]
+        },
+        "1": {
+            "parts": "bwheel",
+            "part_bbox": [
+                147,
+                17,
+                308,
+                177
+            ]
+        }
+    }
+}

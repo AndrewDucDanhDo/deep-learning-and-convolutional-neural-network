@@ -1,0 +1,91 @@
+{
+    "img_name": "2010_005951",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2010_005951.mat",
+    "num_obj": 1,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            123,
+            0,
+            324,
+            319
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                134,
+                109,
+                284,
+                319
+            ]
+        },
+        "1": {
+            "parts": "rightside",
+            "part_bbox": [
+                125,
+                2,
+                282,
+                285
+            ]
+        },
+        "2": {
+            "parts": "door_1",
+            "part_bbox": [
+                135,
+                33,
+                271,
+                162
+            ]
+        },
+        "3": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                173,
+                118,
+                195,
+                144
+            ]
+        },
+        "4": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                225,
+                281,
+                250,
+                300
+            ]
+        },
+        "5": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                241,
+                170,
+                324,
+                257
+            ]
+        },
+        "6": {
+            "parts": "window_1",
+            "part_bbox": [
+                137,
+                117,
+                189,
+                206
+            ]
+        },
+        "7": {
+            "parts": "window_2",
+            "part_bbox": [
+                140,
+                47,
+                195,
+                150
+            ]
+        }
+    }
+}

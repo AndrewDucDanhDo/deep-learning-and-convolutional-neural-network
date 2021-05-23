@@ -1,0 +1,100 @@
+{
+    "img_name": "2008_006562",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_006562.mat",
+    "num_obj": 3,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            181,
+            34,
+            274,
+            302
+        ],
+        "0": {
+            "parts": "leftside",
+            "part_bbox": [
+                229,
+                93,
+                262,
+                273
+            ]
+        },
+        "1": {
+            "parts": "roofside",
+            "part_bbox": [
+                181,
+                34,
+                274,
+                302
+            ]
+        },
+        "2": {
+            "parts": "window_1",
+            "part_bbox": [
+                212,
+                55,
+                267,
+                91
+            ]
+        }
+    },
+    "1": {
+        "objects": "pottedplant",
+        "obj_bbox": [
+            46,
+            266,
+            335,
+            441
+        ],
+        "0": {
+            "parts": "pot",
+            "part_bbox": [
+                206,
+                313,
+                335,
+                435
+            ]
+        },
+        "1": {
+            "parts": "plant",
+            "part_bbox": [
+                46,
+                266,
+                267,
+                441
+            ]
+        }
+    },
+    "2": {
+        "objects": "pottedplant",
+        "obj_bbox": [
+            0,
+            58,
+            375,
+            339
+        ],
+        "0": {
+            "parts": "pot",
+            "part_bbox": [
+                234,
+                168,
+                375,
+                301
+            ]
+        },
+        "1": {
+            "parts": "plant",
+            "part_bbox": [
+                0,
+                58,
+                299,
+                339
+            ]
+        }
+    }
+}

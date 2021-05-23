@@ -1,0 +1,199 @@
+{
+    "img_name": "2010_003746",
+    "img_size": [
+        500,
+        375,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2010_003746.mat",
+    "num_obj": 2,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            86,
+            0,
+            177,
+            137
+        ],
+        "0": {
+            "parts": "rightside",
+            "part_bbox": [
+                86,
+                1,
+                154,
+                137
+            ]
+        },
+        "1": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                144,
+                11,
+                177,
+                39
+            ]
+        },
+        "2": {
+            "parts": "window_1",
+            "part_bbox": [
+                90,
+                1,
+                117,
+                45
+            ]
+        },
+        "3": {
+            "parts": "window_2",
+            "part_bbox": [
+                90,
+                42,
+                117,
+                74
+            ]
+        },
+        "4": {
+            "parts": "window_3",
+            "part_bbox": [
+                94,
+                80,
+                113,
+                119
+            ]
+        }
+    },
+    "1": {
+        "objects": "dog",
+        "obj_bbox": [
+            72,
+            30,
+            500,
+            375
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                72,
+                36,
+                387,
+                375
+            ]
+        },
+        "1": {
+            "parts": "lear",
+            "part_bbox": [
+                103,
+                308,
+                214,
+                375
+            ]
+        },
+        "2": {
+            "parts": "rear",
+            "part_bbox": [
+                102,
+                36,
+                222,
+                129
+            ]
+        },
+        "3": {
+            "parts": "leye",
+            "part_bbox": [
+                188,
+                280,
+                219,
+                314
+            ]
+        },
+        "4": {
+            "parts": "reye",
+            "part_bbox": [
+                189,
+                134,
+                221,
+                169
+            ]
+        },
+        "5": {
+            "parts": "muzzle",
+            "part_bbox": [
+                232,
+                135,
+                387,
+                307
+            ]
+        },
+        "6": {
+            "parts": "nose",
+            "part_bbox": [
+                272,
+                195,
+                334,
+                265
+            ]
+        },
+        "7": {
+            "parts": "torso",
+            "part_bbox": [
+                198,
+                61,
+                387,
+                158
+            ]
+        },
+        "8": {
+            "parts": "lfleg",
+            "part_bbox": [
+                384,
+                220,
+                500,
+                267
+            ]
+        },
+        "9": {
+            "parts": "rfleg",
+            "part_bbox": [
+                337,
+                30,
+                500,
+                124
+            ]
+        },
+        "10": {
+            "parts": "lbleg",
+            "part_bbox": [
+                378,
+                263,
+                419,
+                281
+            ]
+        },
+        "11": {
+            "parts": "lbpa",
+            "part_bbox": [
+                381,
+                262,
+                418,
+                283
+            ]
+        },
+        "12": {
+            "parts": "rbleg",
+            "part_bbox": [
+                382,
+                189,
+                422,
+                221
+            ]
+        },
+        "13": {
+            "parts": "rbpa",
+            "part_bbox": [
+                383,
+                189,
+                420,
+                221
+            ]
+        }
+    }
+}

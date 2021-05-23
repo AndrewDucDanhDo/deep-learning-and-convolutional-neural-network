@@ -1,0 +1,352 @@
+{
+    "img_name": "2009_003781",
+    "img_size": [
+        333,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2009_003781.mat",
+    "num_obj": 3,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            171,
+            428,
+            199,
+            500
+        ],
+        "0": {
+            "parts": "bliplate",
+            "part_bbox": [
+                183,
+                497,
+                186,
+                500
+            ]
+        },
+        "1": {
+            "parts": "backside",
+            "part_bbox": [
+                171,
+                483,
+                194,
+                500
+            ]
+        },
+        "2": {
+            "parts": "leftside",
+            "part_bbox": [
+                171,
+                428,
+                194,
+                492
+            ]
+        },
+        "3": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                177,
+                448,
+                181,
+                451
+            ]
+        },
+        "4": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                187,
+                431,
+                197,
+                443
+            ]
+        },
+        "5": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                188,
+                477,
+                199,
+                488
+            ]
+        },
+        "6": {
+            "parts": "wheel_3",
+            "part_bbox": [
+                193,
+                489,
+                198,
+                499
+            ]
+        },
+        "7": {
+            "parts": "wheel_4",
+            "part_bbox": [
+                193,
+                445,
+                197,
+                454
+            ]
+        },
+        "8": {
+            "parts": "window_1",
+            "part_bbox": [
+                172,
+                450,
+                180,
+                467
+            ]
+        },
+        "9": {
+            "parts": "window_2",
+            "part_bbox": [
+                172,
+                472,
+                179,
+                483
+            ]
+        },
+        "10": {
+            "parts": "window_3",
+            "part_bbox": [
+                172,
+                485,
+                180,
+                498
+            ]
+        }
+    },
+    "1": {
+        "objects": "car",
+        "obj_bbox": [
+            171,
+            378,
+            194,
+            430
+        ],
+        "0": {
+            "parts": "backside",
+            "part_bbox": [
+                171,
+                423,
+                192,
+                430
+            ]
+        },
+        "1": {
+            "parts": "leftside",
+            "part_bbox": [
+                171,
+                378,
+                192,
+                424
+            ]
+        },
+        "2": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                186,
+                381,
+                194,
+                389
+            ]
+        },
+        "3": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                186,
+                415,
+                194,
+                423
+            ]
+        },
+        "4": {
+            "parts": "window_1",
+            "part_bbox": [
+                172,
+                394,
+                179,
+                408
+            ]
+        },
+        "5": {
+            "parts": "window_2",
+            "part_bbox": [
+                172,
+                410,
+                178,
+                420
+            ]
+        }
+    },
+    "2": {
+        "objects": "bus",
+        "obj_bbox": [
+            79,
+            76,
+            267,
+            382
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                79,
+                208,
+                256,
+                378
+            ]
+        },
+        "1": {
+            "parts": "rightside",
+            "part_bbox": [
+                80,
+                76,
+                260,
+                215
+            ]
+        },
+        "2": {
+            "parts": "roofside",
+            "part_bbox": [
+                99,
+                107,
+                116,
+                153
+            ]
+        },
+        "3": {
+            "parts": "door_1",
+            "part_bbox": [
+                112,
+                174,
+                259,
+                208
+            ]
+        },
+        "4": {
+            "parts": "door_2",
+            "part_bbox": [
+                134,
+                109,
+                234,
+                122
+            ]
+        },
+        "5": {
+            "parts": "door_3",
+            "part_bbox": [
+                141,
+                79,
+                220,
+                89
+            ]
+        },
+        "6": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                128,
+                369,
+                150,
+                382
+            ]
+        },
+        "7": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                109,
+                201,
+                137,
+                217
+            ]
+        },
+        "8": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                233,
+                211,
+                245,
+                222
+            ]
+        },
+        "9": {
+            "parts": "headlight_2",
+            "part_bbox": [
+                232,
+                222,
+                243,
+                251
+            ]
+        },
+        "10": {
+            "parts": "headlight_3",
+            "part_bbox": [
+                224,
+                353,
+                237,
+                373
+            ]
+        },
+        "11": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                212,
+                146,
+                267,
+                173
+            ]
+        },
+        "12": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                196,
+                89,
+                238,
+                110
+            ]
+        },
+        "13": {
+            "parts": "window_1",
+            "part_bbox": [
+                116,
+                210,
+                208,
+                374
+            ]
+        },
+        "14": {
+            "parts": "window_2",
+            "part_bbox": [
+                130,
+                124,
+                182,
+                148
+            ]
+        },
+        "15": {
+            "parts": "window_3",
+            "part_bbox": [
+                123,
+                148,
+                186,
+                173
+            ]
+        },
+        "16": {
+            "parts": "window_4",
+            "part_bbox": [
+                139,
+                97,
+                180,
+                108
+            ]
+        },
+        "17": {
+            "parts": "window_5",
+            "part_bbox": [
+                141,
+                89,
+                180,
+                99
+            ]
+        }
+    }
+}

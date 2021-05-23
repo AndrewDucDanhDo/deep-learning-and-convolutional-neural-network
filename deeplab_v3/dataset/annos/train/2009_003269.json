@@ -1,0 +1,217 @@
+{
+    "img_name": "2009_003269",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2009_003269.mat",
+    "num_obj": 3,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            190,
+            204,
+            270,
+            264
+        ],
+        "0": {
+            "parts": "rightside",
+            "part_bbox": [
+                190,
+                204,
+                270,
+                264
+            ]
+        },
+        "1": {
+            "parts": "window_1",
+            "part_bbox": [
+                190,
+                204,
+                267,
+                240
+            ]
+        },
+        "2": {
+            "parts": "window_2",
+            "part_bbox": [
+                191,
+                236,
+                239,
+                262
+            ]
+        }
+    },
+    "1": {
+        "objects": "person",
+        "obj_bbox": [
+            73,
+            118,
+            375,
+            499
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                74,
+                272,
+                234,
+                416
+            ]
+        },
+        "1": {
+            "parts": "lear",
+            "part_bbox": [
+                109,
+                387,
+                159,
+                416
+            ]
+        },
+        "2": {
+            "parts": "leye",
+            "part_bbox": [
+                125,
+                320,
+                137,
+                346
+            ]
+        },
+        "3": {
+            "parts": "reye",
+            "part_bbox": [
+                148,
+                282,
+                161,
+                296
+            ]
+        },
+        "4": {
+            "parts": "lebrow",
+            "part_bbox": [
+                104,
+                306,
+                121,
+                344
+            ]
+        },
+        "5": {
+            "parts": "rebrow",
+            "part_bbox": [
+                132,
+                271,
+                146,
+                289
+            ]
+        },
+        "6": {
+            "parts": "mouth",
+            "part_bbox": [
+                181,
+                304,
+                207,
+                345
+            ]
+        },
+        "7": {
+            "parts": "hair",
+            "part_bbox": [
+                73,
+                345,
+                121,
+                396
+            ]
+        },
+        "8": {
+            "parts": "nose",
+            "part_bbox": [
+                131,
+                295,
+                176,
+                327
+            ]
+        },
+        "9": {
+            "parts": "torso",
+            "part_bbox": [
+                192,
+                267,
+                375,
+                472
+            ]
+        },
+        "10": {
+            "parts": "neck",
+            "part_bbox": [
+                159,
+                315,
+                261,
+                420
+            ]
+        },
+        "11": {
+            "parts": "luarm",
+            "part_bbox": [
+                194,
+                393,
+                373,
+                499
+            ]
+        },
+        "12": {
+            "parts": "rlarm",
+            "part_bbox": [
+                295,
+                144,
+                375,
+                241
+            ]
+        },
+        "13": {
+            "parts": "ruarm",
+            "part_bbox": [
+                283,
+                227,
+                375,
+                298
+            ]
+        },
+        "14": {
+            "parts": "rhand",
+            "part_bbox": [
+                213,
+                118,
+                318,
+                197
+            ]
+        }
+    },
+    "2": {
+        "objects": "bottle",
+        "obj_bbox": [
+            164,
+            114,
+            312,
+            223
+        ],
+        "0": {
+            "parts": "body",
+            "part_bbox": [
+                172,
+                114,
+                312,
+                218
+            ]
+        },
+        "1": {
+            "parts": "cap",
+            "part_bbox": [
+                164,
+                200,
+                184,
+                223
+            ]
+        }
+    }
+}

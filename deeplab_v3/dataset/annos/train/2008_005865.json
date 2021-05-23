@@ -1,0 +1,289 @@
+{
+    "img_name": "2008_005865",
+    "img_size": [
+        335,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_005865.mat",
+    "num_obj": 3,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            186,
+            1,
+            315,
+            189
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                186,
+                1,
+                248,
+                62
+            ]
+        },
+        "1": {
+            "parts": "leftside",
+            "part_bbox": [
+                191,
+                1,
+                315,
+                189
+            ]
+        },
+        "2": {
+            "parts": "door_1",
+            "part_bbox": [
+                195,
+                13,
+                303,
+                108
+            ]
+        },
+        "3": {
+            "parts": "door_2",
+            "part_bbox": [
+                197,
+                104,
+                274,
+                167
+            ]
+        },
+        "4": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                224,
+                24,
+                248,
+                55
+            ]
+        },
+        "5": {
+            "parts": "window_1",
+            "part_bbox": [
+                188,
+                1,
+                240,
+                55
+            ]
+        },
+        "6": {
+            "parts": "window_2",
+            "part_bbox": [
+                198,
+                24,
+                243,
+                100
+            ]
+        },
+        "7": {
+            "parts": "window_3",
+            "part_bbox": [
+                200,
+                106,
+                240,
+                160
+            ]
+        }
+    },
+    "1": {
+        "objects": "car",
+        "obj_bbox": [
+            199,
+            4,
+            335,
+            421
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                204,
+                4,
+                335,
+                377
+            ]
+        },
+        "1": {
+            "parts": "leftside",
+            "part_bbox": [
+                211,
+                339,
+                335,
+                421
+            ]
+        },
+        "2": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                261,
+                377,
+                282,
+                414
+            ]
+        },
+        "3": {
+            "parts": "window_1",
+            "part_bbox": [
+                208,
+                176,
+                274,
+                368
+            ]
+        },
+        "4": {
+            "parts": "window_2",
+            "part_bbox": [
+                222,
+                376,
+                276,
+                409
+            ]
+        }
+    },
+    "2": {
+        "objects": "dog",
+        "obj_bbox": [
+            209,
+            211,
+            333,
+            317
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                209,
+                248,
+                253,
+                310
+            ]
+        },
+        "1": {
+            "parts": "rear",
+            "part_bbox": [
+                211,
+                247,
+                226,
+                270
+            ]
+        },
+        "2": {
+            "parts": "leye",
+            "part_bbox": [
+                225,
+                301,
+                228,
+                303
+            ]
+        },
+        "3": {
+            "parts": "reye",
+            "part_bbox": [
+                223,
+                283,
+                228,
+                291
+            ]
+        },
+        "4": {
+            "parts": "muzzle",
+            "part_bbox": [
+                230,
+                276,
+                253,
+                310
+            ]
+        },
+        "5": {
+            "parts": "nose",
+            "part_bbox": [
+                238,
+                300,
+                249,
+                310
+            ]
+        },
+        "6": {
+            "parts": "torso",
+            "part_bbox": [
+                220,
+                211,
+                307,
+                292
+            ]
+        },
+        "7": {
+            "parts": "neck",
+            "part_bbox": [
+                224,
+                246,
+                266,
+                291
+            ]
+        },
+        "8": {
+            "parts": "lfleg",
+            "part_bbox": [
+                289,
+                259,
+                331,
+                281
+            ]
+        },
+        "9": {
+            "parts": "lfpa",
+            "part_bbox": [
+                307,
+                263,
+                329,
+                283
+            ]
+        },
+        "10": {
+            "parts": "rfleg",
+            "part_bbox": [
+                266,
+                211,
+                333,
+                270
+            ]
+        },
+        "11": {
+            "parts": "rfpa",
+            "part_bbox": [
+                312,
+                247,
+                331,
+                269
+            ]
+        },
+        "12": {
+            "parts": "rbleg",
+            "part_bbox": [
+                266,
+                287,
+                292,
+                317
+            ]
+        },
+        "13": {
+            "parts": "rbpa",
+            "part_bbox": [
+                273,
+                294,
+                292,
+                317
+            ]
+        },
+        "14": {
+            "parts": "tail",
+            "part_bbox": [
+                251,
+                289,
+                280,
+                316
+            ]
+        }
+    }
+}

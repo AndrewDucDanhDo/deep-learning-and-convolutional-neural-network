@@ -1,0 +1,118 @@
+{
+    "img_name": "2008_005356",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_005356.mat",
+    "num_obj": 2,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            0,
+            2,
+            83,
+            383
+        ],
+        "0": {
+            "parts": "fliplate",
+            "part_bbox": [
+                8,
+                343,
+                44,
+                368
+            ]
+        },
+        "1": {
+            "parts": "frontside",
+            "part_bbox": [
+                1,
+                246,
+                76,
+                383
+            ]
+        },
+        "2": {
+            "parts": "rightside",
+            "part_bbox": [
+                0,
+                2,
+                79,
+                219
+            ]
+        },
+        "3": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                0,
+                245,
+                19,
+                307
+            ]
+        },
+        "4": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                2,
+                102,
+                83,
+                179
+            ]
+        }
+    },
+    "1": {
+        "objects": "bicycle",
+        "obj_bbox": [
+            15,
+            59,
+            364,
+            428
+        ],
+        "0": {
+            "parts": "fwheel",
+            "part_bbox": [
+                159,
+                243,
+                364,
+                428
+            ]
+        },
+        "1": {
+            "parts": "bwheel",
+            "part_bbox": [
+                45,
+                59,
+                195,
+                167
+            ]
+        },
+        "2": {
+            "parts": "chainwheel",
+            "part_bbox": [
+                163,
+                156,
+                215,
+                198
+            ]
+        },
+        "3": {
+            "parts": "handlebar",
+            "part_bbox": [
+                54,
+                205,
+                195,
+                400
+            ]
+        },
+        "4": {
+            "parts": "saddle",
+            "part_bbox": [
+                15,
+                89,
+                64,
+                164
+            ]
+        }
+    }
+}

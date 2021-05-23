@@ -1,0 +1,235 @@
+{
+    "img_name": "2008_000563",
+    "img_size": [
+        500,
+        328,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_000563.mat",
+    "num_obj": 3,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            91,
+            218,
+            228,
+            328
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                91,
+                218,
+                220,
+                328
+            ]
+        },
+        "1": {
+            "parts": "leftside",
+            "part_bbox": [
+                145,
+                293,
+                219,
+                327
+            ]
+        },
+        "2": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                169,
+                253,
+                185,
+                271
+            ]
+        },
+        "3": {
+            "parts": "window_1",
+            "part_bbox": [
+                97,
+                221,
+                132,
+                328
+            ]
+        }
+    },
+    "1": {
+        "objects": "person",
+        "obj_bbox": [
+            53,
+            52,
+            478,
+            309
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                53,
+                117,
+                129,
+                217
+            ]
+        },
+        "1": {
+            "parts": "mouth",
+            "part_bbox": [
+                114,
+                155,
+                120,
+                167
+            ]
+        },
+        "2": {
+            "parts": "nose",
+            "part_bbox": [
+                103,
+                152,
+                116,
+                162
+            ]
+        },
+        "3": {
+            "parts": "torso",
+            "part_bbox": [
+                107,
+                134,
+                287,
+                273
+            ]
+        },
+        "4": {
+            "parts": "llarm",
+            "part_bbox": [
+                155,
+                249,
+                231,
+                308
+            ]
+        },
+        "5": {
+            "parts": "luarm",
+            "part_bbox": [
+                119,
+                239,
+                175,
+                309
+            ]
+        },
+        "6": {
+            "parts": "lhand",
+            "part_bbox": [
+                214,
+                248,
+                236,
+                268
+            ]
+        },
+        "7": {
+            "parts": "rlarm",
+            "part_bbox": [
+                186,
+                78,
+                255,
+                135
+            ]
+        },
+        "8": {
+            "parts": "ruarm",
+            "part_bbox": [
+                140,
+                107,
+                215,
+                140
+            ]
+        },
+        "9": {
+            "parts": "rhand",
+            "part_bbox": [
+                228,
+                52,
+                257,
+                86
+            ]
+        },
+        "10": {
+            "parts": "llleg",
+            "part_bbox": [
+                354,
+                221,
+                440,
+                259
+            ]
+        },
+        "11": {
+            "parts": "luleg",
+            "part_bbox": [
+                245,
+                181,
+                360,
+                287
+            ]
+        },
+        "12": {
+            "parts": "lfoot",
+            "part_bbox": [
+                430,
+                207,
+                478,
+                239
+            ]
+        },
+        "13": {
+            "parts": "ruleg",
+            "part_bbox": [
+                250,
+                137,
+                353,
+                199
+            ]
+        },
+        "14": {
+            "parts": "rfoot",
+            "part_bbox": [
+                464,
+                111,
+                476,
+                131
+            ]
+        }
+    },
+    "2": {
+        "objects": "motorbike",
+        "obj_bbox": [
+            241,
+            2,
+            492,
+            194
+        ],
+        "0": {
+            "parts": "fwheel",
+            "part_bbox": [
+                405,
+                4,
+                492,
+                82
+            ]
+        },
+        "1": {
+            "parts": "bwheel",
+            "part_bbox": [
+                354,
+                121,
+                488,
+                179
+            ]
+        },
+        "2": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                284,
+                36,
+                313,
+                66
+            ]
+        }
+    }
+}

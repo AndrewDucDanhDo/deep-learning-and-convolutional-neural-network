@@ -1,0 +1,199 @@
+{
+    "img_name": "2009_001519",
+    "img_size": [
+        333,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2009_001519.mat",
+    "num_obj": 4,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            220,
+            404,
+            241,
+            410
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                220,
+                404,
+                237,
+                410
+            ]
+        },
+        "1": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                229,
+                405,
+                231,
+                409
+            ]
+        },
+        "2": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                237,
+                406,
+                241,
+                409
+            ]
+        }
+    },
+    "1": {
+        "objects": "car",
+        "obj_bbox": [
+            230,
+            367,
+            245,
+            391
+        ],
+        "0": {
+            "parts": "frontside",
+            "part_bbox": [
+                230,
+                367,
+                243,
+                387
+            ]
+        },
+        "1": {
+            "parts": "leftside",
+            "part_bbox": [
+                230,
+                385,
+                242,
+                391
+            ]
+        },
+        "2": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                233,
+                387,
+                234,
+                389
+            ]
+        },
+        "3": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                234,
+                369,
+                235,
+                370
+            ]
+        },
+        "4": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                238,
+                369,
+                240,
+                372
+            ]
+        },
+        "5": {
+            "parts": "headlight_2",
+            "part_bbox": [
+                237,
+                380,
+                239,
+                383
+            ]
+        }
+    },
+    "2": {
+        "objects": "train",
+        "obj_bbox": [
+            87,
+            1,
+            263,
+            345
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                87,
+                1,
+                262,
+                345
+            ]
+        },
+        "1": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                173,
+                291,
+                185,
+                300
+            ]
+        },
+        "2": {
+            "parts": "headlight_2",
+            "part_bbox": [
+                175,
+                326,
+                186,
+                336
+            ]
+        },
+        "3": {
+            "parts": "hfrontside",
+            "part_bbox": [
+                87,
+                203,
+                259,
+                344
+            ]
+        },
+        "4": {
+            "parts": "hrightside",
+            "part_bbox": [
+                93,
+                1,
+                263,
+                264
+            ]
+        }
+    },
+    "3": {
+        "objects": "car",
+        "obj_bbox": [
+            189,
+            0,
+            332,
+            135
+        ],
+        "0": {
+            "parts": "backside",
+            "part_bbox": [
+                189,
+                1,
+                332,
+                133
+            ]
+        },
+        "1": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                235,
+                113,
+                252,
+                135
+            ]
+        },
+        "2": {
+            "parts": "window_1",
+            "part_bbox": [
+                197,
+                0,
+                243,
+                80
+            ]
+        }
+    }
+}

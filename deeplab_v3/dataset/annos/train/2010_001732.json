@@ -1,0 +1,235 @@
+{
+    "img_name": "2010_001732",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2010_001732.mat",
+    "num_obj": 3,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            72,
+            272,
+            87,
+            286
+        ],
+        "0": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                84,
+                272,
+                87,
+                274
+            ]
+        },
+        "1": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                84,
+                281,
+                87,
+                284
+            ]
+        },
+        "2": {
+            "parts": "wheel_3",
+            "part_bbox": [
+                85,
+                275,
+                86,
+                276
+            ]
+        },
+        "3": {
+            "parts": "wheel_4",
+            "part_bbox": [
+                85,
+                284,
+                86,
+                286
+            ]
+        }
+    },
+    "1": {
+        "objects": "bus",
+        "obj_bbox": [
+            79,
+            12,
+            209,
+            125
+        ],
+        "0": {
+            "parts": "fliplate",
+            "part_bbox": [
+                194,
+                58,
+                200,
+                83
+            ]
+        },
+        "1": {
+            "parts": "backside",
+            "part_bbox": [
+                99,
+                12,
+                209,
+                123
+            ]
+        },
+        "2": {
+            "parts": "roofside",
+            "part_bbox": [
+                79,
+                17,
+                103,
+                119
+            ]
+        },
+        "3": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                96,
+                120,
+                100,
+                125
+            ]
+        },
+        "4": {
+            "parts": "window_1",
+            "part_bbox": [
+                104,
+                20,
+                146,
+                112
+            ]
+        }
+    },
+    "2": {
+        "objects": "bus",
+        "obj_bbox": [
+            80,
+            171,
+            259,
+            349
+        ],
+        "0": {
+            "parts": "fliplate",
+            "part_bbox": [
+                225,
+                259,
+                233,
+                287
+            ]
+        },
+        "1": {
+            "parts": "frontside",
+            "part_bbox": [
+                105,
+                207,
+                259,
+                340
+            ]
+        },
+        "2": {
+            "parts": "rightside",
+            "part_bbox": [
+                83,
+                171,
+                254,
+                231
+            ]
+        },
+        "3": {
+            "parts": "roofside",
+            "part_bbox": [
+                80,
+                188,
+                124,
+                334
+            ]
+        },
+        "4": {
+            "parts": "leftmirror",
+            "part_bbox": [
+                149,
+                340,
+                161,
+                349
+            ]
+        },
+        "5": {
+            "parts": "rightmirror",
+            "part_bbox": [
+                137,
+                209,
+                151,
+                221
+            ]
+        },
+        "6": {
+            "parts": "headlight_1",
+            "part_bbox": [
+                216,
+                235,
+                227,
+                246
+            ]
+        },
+        "7": {
+            "parts": "headlight_2",
+            "part_bbox": [
+                219,
+                301,
+                231,
+                312
+            ]
+        },
+        "8": {
+            "parts": "wheel_1",
+            "part_bbox": [
+                197,
+                194,
+                246,
+                203
+            ]
+        },
+        "9": {
+            "parts": "wheel_2",
+            "part_bbox": [
+                157,
+                173,
+                187,
+                179
+            ]
+        },
+        "10": {
+            "parts": "window_1",
+            "part_bbox": [
+                144,
+                281,
+                194,
+                334
+            ]
+        },
+        "11": {
+            "parts": "window_2",
+            "part_bbox": [
+                141,
+                223,
+                190,
+                279
+            ]
+        },
+        "12": {
+            "parts": "window_3",
+            "part_bbox": [
+                99,
+                176,
+                157,
+                211
+            ]
+        }
+    }
+}

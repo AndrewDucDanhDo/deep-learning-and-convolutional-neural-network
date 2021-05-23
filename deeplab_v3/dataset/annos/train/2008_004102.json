@@ -1,0 +1,199 @@
+{
+    "img_name": "2008_004102",
+    "img_size": [
+        375,
+        500,
+        3
+    ],
+    "annopath": "D:\\Code\\DL_CNN\\new\\deep-learning-and-convolutional-neural-network\\deeplab_v3\\PascalVoc2012\\train\\VOC2012\\Annotations_Part_car\\2008_004102.mat",
+    "num_obj": 2,
+    "0": {
+        "objects": "car",
+        "obj_bbox": [
+            1,
+            0,
+            370,
+            499
+        ],
+        "0": {
+            "parts": "backside",
+            "part_bbox": [
+                32,
+                63,
+                370,
+                439
+            ]
+        },
+        "1": {
+            "parts": "door_1",
+            "part_bbox": [
+                56,
+                416,
+                314,
+                498
+            ]
+        },
+        "2": {
+            "parts": "door_2",
+            "part_bbox": [
+                1,
+                0,
+                342,
+                81
+            ]
+        },
+        "3": {
+            "parts": "window_1",
+            "part_bbox": [
+                70,
+                468,
+                159,
+                499
+            ]
+        },
+        "4": {
+            "parts": "window_2",
+            "part_bbox": [
+                11,
+                0,
+                145,
+                63
+            ]
+        }
+    },
+    "1": {
+        "objects": "person",
+        "obj_bbox": [
+            122,
+            202,
+            183,
+            297
+        ],
+        "0": {
+            "parts": "head",
+            "part_bbox": [
+                122,
+                238,
+                153,
+                267
+            ]
+        },
+        "1": {
+            "parts": "lear",
+            "part_bbox": [
+                142,
+                264,
+                143,
+                265
+            ]
+        },
+        "2": {
+            "parts": "rear",
+            "part_bbox": [
+                138,
+                240,
+                146,
+                245
+            ]
+        },
+        "3": {
+            "parts": "leye",
+            "part_bbox": [
+                138,
+                258,
+                139,
+                259
+            ]
+        },
+        "4": {
+            "parts": "reye",
+            "part_bbox": [
+                137,
+                248,
+                138,
+                249
+            ]
+        },
+        "5": {
+            "parts": "lebrow",
+            "part_bbox": [
+                135,
+                259,
+                136,
+                260
+            ]
+        },
+        "6": {
+            "parts": "rebrow",
+            "part_bbox": [
+                134,
+                247,
+                135,
+                248
+            ]
+        },
+        "7": {
+            "parts": "mouth",
+            "part_bbox": [
+                144,
+                249,
+                149,
+                257
+            ]
+        },
+        "8": {
+            "parts": "hair",
+            "part_bbox": [
+                123,
+                239,
+                142,
+                266
+            ]
+        },
+        "9": {
+            "parts": "nose",
+            "part_bbox": [
+                139,
+                250,
+                144,
+                257
+            ]
+        },
+        "10": {
+            "parts": "torso",
+            "part_bbox": [
+                150,
+                228,
+                183,
+                277
+            ]
+        },
+        "11": {
+            "parts": "neck",
+            "part_bbox": [
+                148,
+                244,
+                156,
+                262
+            ]
+        },
+        "12": {
+            "parts": "luarm",
+            "part_bbox": [
+                155,
+                272,
+                171,
+                297
+            ]
+        },
+        "13": {
+            "parts": "ruarm",
+            "part_bbox": [
+                153,
+                202,
+                169,
+                235
+            ]
+        }
+    }
+}
